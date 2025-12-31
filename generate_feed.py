@@ -78,6 +78,7 @@ def build_rss(items):
     fg = FeedGenerator()
     fg.id("reddit:medicine:shared-links")
     fg.title("Reddit medicine links (RSS-based)")
+    fg.description("Outbound links shared across selected medicine-related subreddits.")
     fg.link(href="rss.xml", rel="self")
     fg.updated(datetime.now(timezone.utc))
 
