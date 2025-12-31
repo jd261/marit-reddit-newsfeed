@@ -7,6 +7,9 @@ from urllib.parse import urlparse, urlunparse, parse_qsl, urlencode
 import requests
 from feedgen.feed import FeedGenerator
 
+import feedparser
+from email.utils import parsedate_to_datetime
+
 # 1) Start with a small list, expand later
 SUBREDDITS = [
     "medicine",
@@ -26,7 +29,7 @@ POST_LIMIT = 75
 
 # User-Agent matters for Reddit requests
 HEADERS = {
-    "User-Agent": "reddit-links-to-rss/0.1 (by u/yourusername; contact: youremail@example.com)"
+    "User-Agent": "jd261-marit-reddit-newsfeed/0.1 (RSS fetch for personal use)"
 }
 
 URL_RE = re.compile(r'https?://\S+')
@@ -36,6 +39,15 @@ DROP_QUERY_KEYS = {
     "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
     "gclid", "fbclid", "mc_cid", "mc_eid"
 }
+
+def fetch_subreddit_rss(subreddit: str, limit: int = 50):
+    # Reddit RSS endpoint for newest posts
+    url = f"https://www.reddit.com/r/{subreddit}/new.rss"
+    r = requests.get(url, headers=HEADERS, timeout=20)
+    r.raise_for_status()
+
+    feed = feedparser.parse(r.text)
+    return feed.entries[:limit]
 
 def normalize_url(raw: str) -> str:
     raw = raw.strip().rstrip(').,]>"\'')
@@ -61,22 +73,19 @@ def fetch_new_posts(subreddit: str, limit: int):
     r.raise_for_status()
     return r.json()["data"]["children"]
 
-def extract_outbound_links(post_data: dict):
+def extract_links_from_rss_entry(entry):
     links = set()
 
-    # Link posts
-    dest = post_data.get("url_overridden_by_dest") or post_data.get("url")
-    if dest and "reddit.com" not in dest:
-        links.add(normalize_url(dest))
+    # For link posts, entry.link is usually the outbound destination
+    if hasattr(entry, "link") and entry.link:
+        links.add(normalize_url(entry.link))
 
-    # Text posts with pasted links
-    selftext = post_data.get("selftext") or ""
-    for m in URL_RE.findall(selftext):
-        m = normalize_url(m)
-        if "reddit.com" not in m:
-            links.add(m)
+    # Also scan the summary/content for additional URLs when present
+    summary = getattr(entry, "summary", "") or ""
+    for m in URL_RE.findall(summary):
+        links.add(normalize_url(m))
 
-    return links
+    return {l for l in links if "reddit.com" not in l}
 
 def build_rss(items):
     fg = FeedGenerator()
@@ -99,29 +108,35 @@ def main():
     seen = set()
     items = []
 
-    for sub in SUBREDDITS:
-        posts = fetch_new_posts(sub, POST_LIMIT)
-        time.sleep(1.0)  # polite pacing
+   for sub in SUBREDDITS:
+    entries = fetch_subreddit_rss(sub, POST_LIMIT)
+    time.sleep(1.0)
 
-        for p in posts:
-            d = p["data"]
-            created = datetime.fromtimestamp(d["created_utc"], tz=timezone.utc)
-            reddit_permalink = "https://www.reddit.com" + (d.get("permalink") or "")
+    for e in entries:
+        published = datetime.now(timezone.utc)
+        if getattr(e, "published", None):
+            try:
+                published = parsedate_to_datetime(e.published).astimezone(timezone.utc)
+            except Exception:
+                pass
 
-            for link in extract_outbound_links(d):
-                # Use a stable GUID so RSS readers do not re-import the same item
-                guid = hashlib.sha256(f"{sub}|{d.get('id')}|{link}".encode()).hexdigest()
-                if guid in seen:
-                    continue
-                seen.add(guid)
+        reddit_permalink = getattr(e, "link", "")
 
-                items.append({
-                    "guid": guid,
-                    "title": d.get("title") or f"Link from r/{sub}",
-                    "link": link,
-                    "published": created,
-                    "description": f"Source: r/{sub} | score {d.get('score')} | comments {d.get('num_comments')} | Reddit: {reddit_permalink}"
-                })
+        title = getattr(e, "title", "") or f"Link from r/{sub}"
+
+        for link in extract_links_from_rss_entry(e):
+            guid = hashlib.sha256(f"{sub}|{title}|{link}".encode()).hexdigest()
+            if guid in seen:
+                continue
+            seen.add(guid)
+
+            items.append({
+                "guid": guid,
+                "title": title,
+                "link": link,
+                "published": published,
+                "description": f"Source: r/{sub} | Reddit: {reddit_permalink}"
+            })
 
     # Keep the feed to a reasonable size
     items.sort(key=lambda x: x["published"], reverse=True)
