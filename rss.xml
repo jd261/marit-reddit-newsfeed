@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Reddit medicine links (RSS-based)</title>
+    <link>rss.xml</link>
+    <description>Outbound links shared across selected medicine-related subreddits.</description>
+    <atom:link href="rss.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 31 Dec 2025 18:45:16 +0000</lastBuildDate>
+    <item>
+      <title>Good news, for a change: "20 public health wins in 2025"</title>
+      <link>https://www.bbc.com/news/articles/cevz13xkxpro</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pzzlju/good_news_for_a_change_20_public_health_wins_in/</description>
+      <guid isPermaLink="false">fce7b56a308582265267c851fcc79078ff52d395f8bc5ba5ffaef1bf783232cc</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good news, for a change: "20 public health wins in 2025"</title>
+      <link>https://www.nejm.org/doi/full/10.1056/NEJMoa1414850"&gt;LEAP</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pzzlju/good_news_for_a_change_20_public_health_wins_in/</description>
+      <guid isPermaLink="false">5eb28a75a1f59b1647f325e3302940e28124296983032c14c79e786d024bafab</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good news, for a change: "20 public health wins in 2025"</title>
+      <link>https://yourlocalepidemiologist.substack.com/p/20-public-health-wins-in-2025"&gt;20</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pzzlju/good_news_for_a_change_20_public_health_wins_in/</description>
+      <guid isPermaLink="false">72c07c2f975d77a59ca8f87505e068b37dc9d17fc0963ae10a0dfc0bf59e3835</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good news, for a change: "20 public health wins in 2025"</title>
+      <link>https://health.maryland.gov/newsroom/Pages/Governor%20Moore%20Launches%20Free%20Adult%20Vaccine%20Program%20to%20Expand%20Immunization%20Access%20for%20Uninsured%20and%20Underinsured%20Marylanders.aspx"&gt;first-of-its-kind</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pzzlju/good_news_for_a_change_20_public_health_wins_in/</description>
+      <guid isPermaLink="false">92c782768893504e9940621c69c14b9da137bfdbcd1992e3beb4edba4415e061</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good news, for a change: "20 public health wins in 2025"</title>
+      <link>https://yourlocalepidemiologist.substack.com"&gt;Your</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pzzlju/good_news_for_a_change_20_public_health_wins_in/</description>
+      <guid isPermaLink="false">28421de31b8a76dd49d301cc0ebe95295da6238faaab3b6e9f1eecee757bc5f5</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Good news, for a change: "20 public health wins in 2025"</title>
+      <link>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2841340?%22%3Eincreased=</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pzzlju/good_news_for_a_change_20_public_health_wins_in/</description>
+      <guid isPermaLink="false">b7098163bd9dd65b5992a68776ec142bf2edd8f42e725787970731edebd98143</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>SNAP bans on soda, candy and other foods take effect in five states Jan. 1</title>
+      <link>https://www.cnn.com/2025/12/30/health/snap-restrictions-begin?cid=ios_app%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pzxe6b/snap_bans_on_soda_candy_and_other_foods_take/</description>
+      <guid isPermaLink="false">b796c44de9fa66ac8a325413fca01263e79c24e7fe548a0af1fb64ac5c3634e9</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prenuvo whole body MRI misses impending stroke, sued for malpractice.</title>
+      <link>https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=x3%2FW6aOHU_PLUS_hPKAJ4AMNnAw%3D%3D&amp;amp%3Bsystem=prod%22%3Ecopy</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pzre3d/prenuvo_whole_body_mri_misses_impending_stroke/</description>
+      <guid isPermaLink="false">bc4861e2d1422ea3a317386a52ac442aeff7d6933696d76ce045dac863e358bd</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prenuvo whole body MRI misses impending stroke, sued for malpractice.</title>
+      <link>https://radiologybusiness.com/topics/healthcare-management/legal-news/whole-body-mri-provider-prenuvo-loses-bid-limit-damages-high-profile-malpractice-case"&gt;https://radiologybusiness.com/topics/healthcare-management/legal-news/whole-body-mri-provider-prenuvo-loses-bid-limit-damages-high-profile-malpractice-case&lt;/a&gt;&lt;/p</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pzre3d/prenuvo_whole_body_mri_misses_impending_stroke/</description>
+      <guid isPermaLink="false">c3e0f5f0db681dedf2d062bab68fa6194b8debdeb7eeae3ebd27417ce018e5c0</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump admin can share immigrants’ Medicaid data with ICE, judge rules</title>
+      <link>https://www.politico.com/news/2025/12/29/trump-admin-can-share-immigrants-medicaid-data-ice-judge-rules-00707716"&gt;https://www.politico.com/news/2025/12/29/trump-admin-can-share-immigrants-medicaid-data-ice-judge-rules-00707716&lt;/a&gt;&lt;/p</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pz9zod/trump_admin_can_share_immigrants_medicaid_data/</description>
+      <guid isPermaLink="false">0b000555ae922d03c17ac68590156b6ca4df178c4c46db80a737353823e76438</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump admin can share immigrants’ Medicaid data with ICE, judge rules</title>
+      <link>https://storage.courtlistener.com/recap/gov.uscourts.cand.452203/gov.uscourts.cand.452203.148.0.pdf"&gt;https://storage.courtlistener.com/recap/gov.uscourts.cand.452203/gov.uscourts.cand.452203.148.0.pdf&lt;/a&gt;&lt;/p</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pz9zod/trump_admin_can_share_immigrants_medicaid_data/</description>
+      <guid isPermaLink="false">4796de74c1a9ad479535e62b4d442d20d43ae98d07b46250e8599c39c0c25553</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pokémon or Pill? A silly quiz game</title>
+      <link>https://pokepill.net/"&gt;https://pokepill.net&lt;/a&gt;&lt;/p</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pyngdf/pokémon_or_pill_a_silly_quiz_game/</description>
+      <guid isPermaLink="false">6eb2c9d733b362bd6bdb9be2bdaf330cc356ef73c909f5a322f93ab4dfbe86c1</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>WSJ (Gift): A Surprising Treatment for Chronic Lower Back Pain: Cannabis (two new RCT's)</title>
+      <link>https://link.springer.com/article/10.1007/s40122-025-00773-z"&gt;VER-01</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1py9xp0/wsj_gift_a_surprising_treatment_for_chronic_lower/</description>
+      <guid isPermaLink="false">a2d68002195727b8cb0c00e3c0472ad4c81e5fbeb37e39470df1919366399ed5</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>WSJ (Gift): A Surprising Treatment for Chronic Lower Back Pain: Cannabis (two new RCT's)</title>
+      <link>https://www.nature.com/articles/s41591-025-03977-0"&gt;Full-spectrum</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1py9xp0/wsj_gift_a_surprising_treatment_for_chronic_lower/</description>
+      <guid isPermaLink="false">9684dea222cc493425d93a0e4d6d400fa97d45fb9bab5e6ea515b1a3273d675b</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>WSJ (Gift): A Surprising Treatment for Chronic Lower Back Pain: Cannabis (two new RCT's)</title>
+      <link>https://www.wsj.com/health/wellness/lower-back-pain-treatment-cannabis-fcf22d0e?st=8mGipF&amp;amp%3Breflink=desktopwebshare_permalink%22%3Ehttps%3A%2F%2Fwww.wsj.com%2Fhealth%2Fwellness%2Flower-back-pain-treatment-cannabis-fcf22d0e%3Fst%3D8mGipF&amp;amp%3Breflink=desktopwebshare_permalink%3C%2Fa%3E%3C%2Fp</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1py9xp0/wsj_gift_a_surprising_treatment_for_chronic_lower/</description>
+      <guid isPermaLink="false">bcaa906cb5b8c1ba47cc5989f708fbe3f3cdfef9947ecd0f4edad617fcfa50a8</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Systematic Review and Meta-Analysis of GLP-1RAs on obesity without diabetes: they are generally not cost-effective compared to other interventions (lifestyle intervention, other meds, surgery)</title>
+      <link>https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.70322"&gt;https://dom-pubs.pericles-prod.literatumonline.com/doi/10.1111/dom.70322&lt;/a&gt;&lt;/p</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pwoyd3/systematic_review_and_metaanalysis_of_glp1ras_on/</description>
+      <guid isPermaLink="false">a130d75008622bd1600f9884719ac2023c0a424ca981b79be21d3f2f94732f92</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>VA moves to reinstate the "full exclusion on abortion and abortion counseling," ending services effective Dec 22</title>
+      <link>https://democracyforward.org/updates/trump-vance-administration-bans-abortion-care-and-counseling-for-veterans-in-secret/"&gt;https://democracyforward.org/updates/trump-vance-administration-bans-abortion-care-and-counseling-for-veterans-in-secret/&lt;/a&gt;&lt;/p</link>
+      <description>Source: r/medicine | Reddit: https://www.reddit.com/r/medicine/comments/1pvolf0/va_moves_to_reinstate_the_full_exclusion_on/</description>
+      <guid isPermaLink="false">f3c80d8e4a6cc6eb1d53ca7408f2291573360703d01abc5513f7bc5bf61848bb</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>ERs are overloaded</title>
+      <link>https://external-preview.redd.it/5NDxfudQE34mTnEcjRHBNw8LcN_PJKpaUjeufDc5-94.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=e4a3d51c6dcfb63b133c630d03cb8cf10b1084b7</link>
+      <description>Source: r/emergencymedicine | Reddit: https://www.reddit.com/r/emergencymedicine/comments/1q07vb8/ers_are_overloaded/</description>
+      <guid isPermaLink="false">f443b09653229ccff21fd7f9e78951163b8054ead9bdc409b283740b083b0d9a</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>ERs are overloaded</title>
+      <link>https://calgary.citynews.ca/2025/12/30/prashanth-sreekumar-wife-story-hospital-death/"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/emergencymedicine | Reddit: https://www.reddit.com/r/emergencymedicine/comments/1q07vb8/ers_are_overloaded/</description>
+      <guid isPermaLink="false">bf3e4cde2b83b7ab6b9acce4d1acbb7aca7c45880d18c0953b5060e84fce674b</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Possible vitreous hemorrhage</title>
+      <link>https://v.redd.it/894yexnvueag1"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/emergencymedicine | Reddit: https://www.reddit.com/r/emergencymedicine/comments/1pzuks0/possible_vitreous_hemorrhage/</description>
+      <guid isPermaLink="false">06720805866dcc3b5263f9e8a16830374a8ea9440be7e892842201892fe02326</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Possible vitreous hemorrhage</title>
+      <link>https://external-preview.redd.it/MTZqMGJjZ3Z1ZWFnMYk7FkD9ldNTwwiS3lb2BZpz92sJxI8igqvXhXHjcMpI.png?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=d42a690fb0425b10211e74171ded8e3af8683fbc</link>
+      <description>Source: r/emergencymedicine | Reddit: https://www.reddit.com/r/emergencymedicine/comments/1pzuks0/possible_vitreous_hemorrhage/</description>
+      <guid isPermaLink="false">21719ebeb12cd2e7928e56b99e095a78355dbd147915d4a2708be417404db9a1</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>PMCT Images. Nurse advanced NG tube until she heard a pop, then tried an air bolus to ensure placement. Patient did not survive.</title>
+      <link>https://i.redd.it/vxvicafn2cag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/emergencymedicine | Reddit: https://www.reddit.com/r/emergencymedicine/comments/1pzn9nl/pmct_images_nurse_advanced_ng_tube_until_she/</description>
+      <guid isPermaLink="false">2b03dfa4ddb9dace6695fa9481acf01c14c65367301c9d3dd4402d732e7fdd48</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>PMCT Images. Nurse advanced NG tube until she heard a pop, then tried an air bolus to ensure placement. Patient did not survive.</title>
+      <link>https://preview.redd.it/vxvicafn2cag1.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=84bca4a3a5f870fa64ac55c462c2777c42e69d01</link>
+      <description>Source: r/emergencymedicine | Reddit: https://www.reddit.com/r/emergencymedicine/comments/1pzn9nl/pmct_images_nurse_advanced_ng_tube_until_she/</description>
+      <guid isPermaLink="false">5f5c11832fef4288575a916400305286281535ca0982e5bf7c261bbf72d0e5ba</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>*Tests Flu A positive* - ad infinitum</title>
+      <link>https://preview.redd.it/pfo53ohewcag1.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=e665ccfdea1671ec1571f94129172dd25dc416a7</link>
+      <description>Source: r/emergencymedicine | Reddit: https://www.reddit.com/r/emergencymedicine/comments/1pzkcqq/tests_flu_a_positive_ad_infinitum/</description>
+      <guid isPermaLink="false">ad54170b03b1e67e6349605b223e7171cb3a609058e4e6487b72d54d16ca039e</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>*Tests Flu A positive* - ad infinitum</title>
+      <link>https://i.redd.it/pfo53ohewcag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/emergencymedicine | Reddit: https://www.reddit.com/r/emergencymedicine/comments/1pzkcqq/tests_flu_a_positive_ad_infinitum/</description>
+      <guid isPermaLink="false">2580644b6bd57bcce0fe4f4588a588b47b7a24541bd1f20f76071f015696e5ca</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>I now show patients this instead of explaining things again...and again...and again...</title>
+      <link>https://youtu.be/hrfb2CWxhDM"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/FamilyMedicine | Reddit: https://www.reddit.com/r/FamilyMedicine/comments/1pzxyv7/i_now_show_patients_this_instead_of_explaining/</description>
+      <guid isPermaLink="false">ecd5677bdcb8b124281785772317f62391201d5d6e168d0c823725704651ce00</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Illinois Medical License – OOS FP form TCN Question</title>
+      <link>https://i.redd.it/za5zbpsdr5ag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/FamilyMedicine | Reddit: https://www.reddit.com/r/FamilyMedicine/comments/1pyohfe/illinois_medical_license_oos_fp_form_tcn_question/</description>
+      <guid isPermaLink="false">dfb1a4bfebb75f20a934c6daaf4ae785c025a3a01d5d343a0c093def37d43fe3</guid>
+      <pubDate>Wed, 31 Dec 2025 18:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clozapine Prescribing: 10 Key Clinical Points</title>
+      <link>https://external-preview.redd.it/TWCxciEh93dVZXD61SJC3dlQ4GGN7ONLDk03hVp-vXs.jpeg?width=320&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=7ccc3f189a8662ad7c0a0f29fcdc5e18cbc7ff95</link>
+      <description>Source: r/Psychiatry | Reddit: https://www.reddit.com/r/Psychiatry/comments/1pyx50n/clozapine_prescribing_10_key_clinical_points/</description>
+      <guid isPermaLink="false">afe53689f2f94f52c7b9390e0b29ec8bd2d2ad1991e9b8461e5c3a88f08ed894</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clozapine Prescribing: 10 Key Clinical Points</title>
+      <link>https://www.youtube.com/watch?v=qc2-HTZ_tSQ%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan</link>
+      <description>Source: r/Psychiatry | Reddit: https://www.reddit.com/r/Psychiatry/comments/1pyx50n/clozapine_prescribing_10_key_clinical_points/</description>
+      <guid isPermaLink="false">89db52a06c3ef531a228633090fb61f88b8e2a7bdc2da257341361bb1ed21f56</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>End of the year special</title>
+      <link>https://external-preview.redd.it/gItbZxFoNbSda0k6uaifNRoaVmvJE9K5GP3lud2g1ZE.png?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=51f58d1ffa8942f259f500565e237fc9b6923dd5</link>
+      <description>Source: r/Psychiatry | Reddit: https://www.reddit.com/r/Psychiatry/comments/1puem9r/end_of_the_year_special/</description>
+      <guid isPermaLink="false">2f54a79d6e43047536586a218bdae92fdc3be63cdd28d8f1973708c0778e22cc</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>End of the year special</title>
+      <link>https://docs.google.com/forms/d/e/1FAIpQLSfHJsgCnz9PSFsfHDfH0HBOUCWMwRBaJOkU-YZMtMnNVRPANA/viewform?usp=send_form%22%3E%5Blink%5D%3C%2Fa%3E%3C%2Fspan</link>
+      <description>Source: r/Psychiatry | Reddit: https://www.reddit.com/r/Psychiatry/comments/1puem9r/end_of_the_year_special/</description>
+      <guid isPermaLink="false">c72e4707fe4fdbea3364a14041f1e23b493aaea980de3805dd85c9d345c5dcc3</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bring your own sedation (BYOS)</title>
+      <link>https://preview.redd.it/k8k43z81meag1.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=47458edaacf62dda5a5412c990e7d75a3f68b1c5</link>
+      <description>Source: r/Anesthesiology | Reddit: https://www.reddit.com/r/anesthesiology/comments/1pztcnd/bring_your_own_sedation_byos/</description>
+      <guid isPermaLink="false">01b22500c306abe78d6094391d235ca4c5b046960f5d055c58578eb995889d05</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bring your own sedation (BYOS)</title>
+      <link>https://i.redd.it/k8k43z81meag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/Anesthesiology | Reddit: https://www.reddit.com/r/anesthesiology/comments/1pztcnd/bring_your_own_sedation_byos/</description>
+      <guid isPermaLink="false">c198806691260623a19b5393e642c2ed8458520c27bd169d74f471c006df00d9</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's Reversal time!</title>
+      <link>https://i.imgur.com/DsHzvyU.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/Anesthesiology | Reddit: https://www.reddit.com/r/anesthesiology/comments/1pvk3n2/its_reversal_time/</description>
+      <guid isPermaLink="false">42cd9fa9b89e3b14717fffabafe39029f41946f5ac9c95b8900a0df0e5b7fb71</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>It's Reversal time!</title>
+      <link>https://external-preview.redd.it/k4iILSYEKjlK0tr29QPNyW4kqRkaQ0T6S5ZjTdJBo4Q.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=14dfbdec286096587292cba199a54e15abbc566b</link>
+      <description>Source: r/Anesthesiology | Reddit: https://www.reddit.com/r/anesthesiology/comments/1pvk3n2/its_reversal_time/</description>
+      <guid isPermaLink="false">fcccfd8ecd8194816a147858c9b0ab10f9cee162a6917f6eedf6c9e430eeeea9</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The face I make when my attending walks up behind me and catches me on my phone</title>
+      <link>https://preview.redd.it/qfv8cq0n589g1.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=4af952deeddfb4b12cb8dbec13f5ae974fa7a0a5</link>
+      <description>Source: r/Anesthesiology | Reddit: https://www.reddit.com/r/anesthesiology/comments/1puyhdu/the_face_i_make_when_my_attending_walks_up_behind/</description>
+      <guid isPermaLink="false">383af2591a55d92dd32f878141eb1d76c52f3a73566e1e7e2f651cc2568f71ab</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>The face I make when my attending walks up behind me and catches me on my phone</title>
+      <link>https://i.redd.it/qfv8cq0n589g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/Anesthesiology | Reddit: https://www.reddit.com/r/anesthesiology/comments/1puyhdu/the_face_i_make_when_my_attending_walks_up_behind/</description>
+      <guid isPermaLink="false">f8b3e34eacf91c1d4fc86932082e59f3a3a97e8ac0260cba8b0b39b3f47a9eb5</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>CT scan of my septum</title>
+      <link>https://b.thumbs.redditmedia.com/gRWaj6aZMhoqPwnBgTEM75-9EIpY0HAvaKRFT1GuvLk.jpg</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1q0ck71/ct_scan_of_my_septum/</description>
+      <guid isPermaLink="false">8aa54661fd80f063e4efba24a37942b50cdbba088a07041a0c5cc3ce5ba2e5b0</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The coyote who never fell. Why Geoffrey Hinton’s prediction about radiologists missed the mark</title>
+      <link>https://external-preview.redd.it/Sdb0A9chcbBy99SD6DZnK4dN-BYDq508XI49hbnZ8ho.png?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=f4e07ec48a7e2f431f195c21dafb20a9b79f6ea7</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pzno73/the_coyote_who_never_fell_why_geoffrey_hintons/</description>
+      <guid isPermaLink="false">83863b25059c1af5070e3281e2d740596af72fec4de5d9a339035ff51af45d72</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The coyote who never fell. Why Geoffrey Hinton’s prediction about radiologists missed the mark</title>
+      <link>https://2digital.news/the-coyote-who-never-fell-why-geoffrey-hintons-prediction-about-radiologists-missed-the-mark/"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pzno73/the_coyote_who_never_fell_why_geoffrey_hintons/</description>
+      <guid isPermaLink="false">a831c5299e8236154dbda36114de395bda9652089f0c1ed7e75669fd82495d8a</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>PMCT Images. Nurse advanced NG tube until she heard a pop, then tried an air bolus to ensure placement. Patient did not survive.</title>
+      <link>https://preview.redd.it/3uip23fnwcag1.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=3880fa378de48b0a7e167ab05598dd3b1ae01a47</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pzkdob/pmct_images_nurse_advanced_ng_tube_until_she/</description>
+      <guid isPermaLink="false">0cb323b4537fcc3b41b840e90e42c9728992bc8c5035742131d97302ca87f9ae</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>PMCT Images. Nurse advanced NG tube until she heard a pop, then tried an air bolus to ensure placement. Patient did not survive.</title>
+      <link>https://i.redd.it/3uip23fnwcag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pzkdob/pmct_images_nurse_advanced_ng_tube_until_she/</description>
+      <guid isPermaLink="false">522efb7d1292a5b6712b79aa252dba54214d36399a355c3dae54def835d2a784</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>The High Cost of the "Lifeline": Trauma due to fall from Local Train. (Reuploaded)</title>
+      <link>https://b.thumbs.redditmedia.com/mJpGfM_Pv2t18SEhYnx9wv3iq1BkZQ53YQQw7zzSh_U.jpg</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pzhcvd/the_high_cost_of_the_lifeline_trauma_due_to_fall/</description>
+      <guid isPermaLink="false">402d5f8dcdcf344a728cf95540a77ab5187d7431622230896f48b3889bc796ab</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>This looks fake to me. There are no metal artifacts or has OMAR become this advanced on new CTs?</title>
+      <link>https://i.redd.it/fl4mkvhw5bag1.png"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pzej34/this_looks_fake_to_me_there_are_no_metal/</description>
+      <guid isPermaLink="false">a5572580c04718f8b69399570ef8f732765338efa3d890bc38c64c8a6ffcb5db</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Would love to know from the Rads, what do you think when we put this in the history?</title>
+      <link>https://i.redd.it/kmz4agxqa8ag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pz1wdg/would_love_to_know_from_the_rads_what_do_you/</description>
+      <guid isPermaLink="false">6682199471db90142170c5ad214445a20ae11e0c35ede4dca5a3781a81d5c95c</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Would love to know from the Rads, what do you think when we put this in the history?</title>
+      <link>https://preview.redd.it/kmz4agxqa8ag1.jpeg?width=320&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=3cf72d0180f443f2d8497d900d725ac535d35827</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pz1wdg/would_love_to_know_from_the_rads_what_do_you/</description>
+      <guid isPermaLink="false">9a5336db50e6780ab96bd99a807c8e773c5375ed6b5553f1ac7a29bc82480d1c</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>This hospital machine part 2</title>
+      <link>https://preview.redd.it/dyq72b3uw5ag1.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=9b616f278aafedb56d6ebb8250174337daaabf2b</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pyp9f8/this_hospital_machine_part_2/</description>
+      <guid isPermaLink="false">11774885408a2e48800c3cde23dbaab60d445c43523f7aeba38f713233ba7c28</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>This hospital machine part 2</title>
+      <link>https://i.redd.it/dyq72b3uw5ag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pyp9f8/this_hospital_machine_part_2/</description>
+      <guid isPermaLink="false">8d74c246f3c472910c114461cea5c294d08440a4c7cd6f4df6e17defad84f417</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>From x-ray straight to CT</title>
+      <link>https://b.thumbs.redditmedia.com/ai0MkpGYQsqHlDP99HZYK53e-wkketZOLk9MzJdBXfo.jpg</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pyj1lt/from_xray_straight_to_ct/</description>
+      <guid isPermaLink="false">23501721ce9f4436a1db243219fdc9a73c408ba254e82ebdd7abf68f502f5280</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>This hospital machine</title>
+      <link>https://i.redd.it/8uwe82grmz9g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pye59z/this_hospital_machine/</description>
+      <guid isPermaLink="false">6b0f39ac16a8eef9ed6bc85c0e897c1291e39c55878ca7a01629d171030332e1</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>This hospital machine</title>
+      <link>https://preview.redd.it/8uwe82grmz9g1.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=71fa9e8ea240b5646f475da83fcf4aa4ec1d8bba</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pye59z/this_hospital_machine/</description>
+      <guid isPermaLink="false">7a0a9df4e1af1bae284c677e672540a414a00d91c8f4b8e4534f76ced96257d9</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>MR Arthrogram SLAP tear</title>
+      <link>https://b.thumbs.redditmedia.com/HeEp3InFxy9A-ZpqlbfRt3YZB5klWlQxHK1b069rh8g.jpg</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pxtdon/mr_arthrogram_slap_tear/</description>
+      <guid isPermaLink="false">0a179e6ac1a1d998ddee941b8e24bbaae2e078b412d0a8d897b24c3305338b0b</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>PE or not to be, tech/rad opinions</title>
+      <link>https://v.redd.it/32ovj0819v9g1"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pxh97h/pe_or_not_to_be_techrad_opinions/</description>
+      <guid isPermaLink="false">70881c4a72d6a728a6904b9d7774fa36adc4c90e634eeec696d275340f720001</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>PE or not to be, tech/rad opinions</title>
+      <link>https://external-preview.redd.it/bjZ4ZzEzZDE5djlnMZZo3aEyP5RYdRXuKNkUNHS4hJvu2bD1xr_3Ub9gAfBp.png?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=5aac5f2175513c472e3b4c39c78b36252107529d</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pxh97h/pe_or_not_to_be_techrad_opinions/</description>
+      <guid isPermaLink="false">393e58f4b2781111135eea12f3e2faf26236583ddf3be97a4bf365567bf01aeb</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hitchhikers thumb 👍</title>
+      <link>https://b.thumbs.redditmedia.com/EWZRG50rtVxuabYEzsx2V0uKa4MJXvdcSExRkqMc5Gg.jpg</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pxcz1o/hitchhikers_thumb/</description>
+      <guid isPermaLink="false">fe70725795231a9053e4c086d33efd9564b83055cf8fc4afee77164253bf78e6</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advice for difficult Pt in this situation</title>
+      <link>https://i.redd.it/7gjo1zon0u9g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pxbypx/advice_for_difficult_pt_in_this_situation/</description>
+      <guid isPermaLink="false">48b3d85b0bddc4a5322c1068c77571f604d2166fa242f09856aaf950df3ecafe</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Advice for difficult Pt in this situation</title>
+      <link>https://preview.redd.it/7gjo1zon0u9g1.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=8dc2d3e26e72029e8ff5378fa3d9d74ae38fe9bc</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1pxbypx/advice_for_difficult_pt_in_this_situation/</description>
+      <guid isPermaLink="false">28ad4eecf31c83b83d5fd04b7d6993c2e0ed1aa5831f46fac500a1dc9dfa2dce</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nicest xray I’ve had done to date. Usually there not very clear or crisp.</title>
+      <link>https://b.thumbs.redditmedia.com/P7A3ekHgdfm_Hhg-rcOWKTfLpc-xrEuoiwsiv9kucrI.jpg</link>
+      <description>Source: r/Radiology | Reddit: https://www.reddit.com/r/Radiology/comments/1px6nov/nicest_xray_ive_had_done_to_date_usually_there/</description>
+      <guid isPermaLink="false">83ec2a80707bd9f7eda3aea87c037b0f4db4fa055ce5ad4f50e766461fad0ce9</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Illinois Medical License – OOS FP form TCN Question</title>
+      <link>https://i.redd.it/pc5bt56zr5ag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/InternalMedicine | Reddit: https://www.reddit.com/r/InternalMedicine/comments/1pyokdw/illinois_medical_license_oos_fp_form_tcn_question/</description>
+      <guid isPermaLink="false">87f99f69d5040576b194ef939957797a8ce1f4da862eb7c5bb7509502a555326</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Illinois Medical License – OOS FP form TCN Question</title>
+      <link>https://preview.redd.it/pc5bt56zr5ag1.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=1ea7c2c1eef2f21bb85ad0d4a3a89a47ba317881</link>
+      <description>Source: r/InternalMedicine | Reddit: https://www.reddit.com/r/InternalMedicine/comments/1pyokdw/illinois_medical_license_oos_fp_form_tcn_question/</description>
+      <guid isPermaLink="false">a5c1c7c0d9ce933a457fe259aebd8fd3baa599edd1209747e4d949c13e2b328a</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Echo Question error? CCeXAM</title>
+      <link>https://i.redd.it/81aaj8o33a9g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/criticalcare | Reddit: https://www.reddit.com/r/CriticalCare/comments/1pv5ael/echo_question_error_ccexam/</description>
+      <guid isPermaLink="false">11b60a17cfc28ff9010ebf5553810ff4e94d40530b08c99a47249c2bc1ac2e85</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Echo Question error? CCeXAM</title>
+      <link>https://preview.redd.it/81aaj8o33a9g1.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=17f021e836ba8f8bf7bc99685d88b6ee5bc253bb</link>
+      <description>Source: r/criticalcare | Reddit: https://www.reddit.com/r/CriticalCare/comments/1pv5ael/echo_question_error_ccexam/</description>
+      <guid isPermaLink="false">abacca2864c81f59e0858b129558f45b2ea303568accdf89487714d5368c68b3</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ATS Review for Critical Care Boards, 2nd Edition - Was it helpful and is it worth the $350 for board prep?</title>
+      <link>https://i.redd.it/41e57fl1i18g1.png"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/criticalcare | Reddit: https://www.reddit.com/r/CriticalCare/comments/1pq4fli/ats_review_for_critical_care_boards_2nd_edition/</description>
+      <guid isPermaLink="false">954e10fb6b55bd8f3cbf12d1674bdaf2d5cf515042e7ee56bfbfec2e92d1e900</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>ATS Review for Critical Care Boards, 2nd Edition - Was it helpful and is it worth the $350 for board prep?</title>
+      <link>https://preview.redd.it/41e57fl1i18g1.png?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=4c6b43a3d4036881c540862a0315c11797ad0456</link>
+      <description>Source: r/criticalcare | Reddit: https://www.reddit.com/r/CriticalCare/comments/1pq4fli/ats_review_for_critical_care_boards_2nd_edition/</description>
+      <guid isPermaLink="false">1682d5a9504b9e2b2856820758f19d58a41fb6f627253341234f4ab954ae3d26</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>The dreaded Delirium Tremens patient</title>
+      <link>https://preview.redd.it/ydnp1dinvg3g1.jpeg?width=640&amp;amp%3Bcrop=smart&amp;amp%3Bauto=webp&amp;amp%3Bs=ffba1cc9fda574e33fca2ff37cc12dea479c9118</link>
+      <description>Source: r/criticalcare | Reddit: https://www.reddit.com/r/CriticalCare/comments/1p6o9wq/the_dreaded_delirium_tremens_patient/</description>
+      <guid isPermaLink="false">cf120b02f57b95ab6ed3af593cb80bdd8d4ac430b66ffc2de6ffc04a9c49dfb7</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>The dreaded Delirium Tremens patient</title>
+      <link>https://i.redd.it/ydnp1dinvg3g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/criticalcare | Reddit: https://www.reddit.com/r/CriticalCare/comments/1p6o9wq/the_dreaded_delirium_tremens_patient/</description>
+      <guid isPermaLink="false">8fa66806ae98d97857a49f9acaf3be45bdad620e604f5a64ab5a162a1d585696</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Started work on an EEG simulator to help learn EEG</title>
+      <link>https://discord.gg/2bpKS8vQ6"&gt;https://discord.gg/2bpKS8vQ6&lt;/a&gt;&lt;/p</link>
+      <description>Source: r/neurology | Reddit: https://www.reddit.com/r/neurology/comments/1q0ddxh/started_work_on_an_eeg_simulator_to_help_learn_eeg/</description>
+      <guid isPermaLink="false">5dda5e4a1680851bb63c9ba6033e0858ba61f254362446c01d169e0d12f58946</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Started work on an EEG simulator to help learn EEG</title>
+      <link>https://v.redd.it/pfg9ld8lnjag1"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/neurology | Reddit: https://www.reddit.com/r/neurology/comments/1q0ddxh/started_work_on_an_eeg_simulator_to_help_learn_eeg/</description>
+      <guid isPermaLink="false">321ff19416488b68044e6951b085103cd29bd8bbef8e191fb8cb4c5ee1f22145</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>That moment when psych and neuro hold hands 🤝🧠</title>
+      <link>https://i.redd.it/6ln0u2vftg9g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/neurology | Reddit: https://www.reddit.com/r/neurology/comments/1pvu1h8/that_moment_when_psych_and_neuro_hold_hands/</description>
+      <guid isPermaLink="false">430ca605e1783d92875344be3e8da74d41059f69684b4da1c670dad7c67db3c3</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>somehow the bridge becomes the whole highway 😅🧠💊</title>
+      <link>https://i.redd.it/c67bxnk4va9g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/neurology | Reddit: https://www.reddit.com/r/neurology/comments/1pv7qfx/somehow_the_bridge_becomes_the_whole_highway/</description>
+      <guid isPermaLink="false">0e004f814a4938e7d152dd325ec2503ce4dde46e6908aa85212b7eb628c98c81</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>New research challenges our understanding of Parkinson’s disease</title>
+      <link>https://thebrighterside.news/post/new-research-challenges-our-understanding-of-parkinsons-disease"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/neurology | Reddit: https://www.reddit.com/r/neurology/comments/1psep84/new_research_challenges_our_understanding_of/</description>
+      <guid isPermaLink="false">829cc8407bb572b9dbdad7946dd1f3c59c3fe8e00850072bb76ace495ca6159b</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Friday's patient: With this condition in cataract surgery, would you be more concerned about zonular dehiscence or capsulorhexis radialization.</title>
+      <link>https://i.redd.it/gjsuprdcnjag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/ophthalmology | Reddit: https://www.reddit.com/r/Ophthalmology/comments/1q0dct0/fridays_patient_with_this_condition_in_cataract/</description>
+      <guid isPermaLink="false">07336198a410c6ea0a5f2c61fc2f28f0fbc4a65fc6ace84415b99ba4902310dc</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Management</title>
+      <link>https://i.redd.it/ao05o146xaag1.png"&gt;[link]&lt;/a&gt;&lt;/span</link>
+      <description>Source: r/ophthalmology | Reddit: https://www.reddit.com/r/Ophthalmology/comments/1pzcr5b/management/</description>
+      <guid isPermaLink="false">02fbd3b16283e0b16f0bbd0207aba08a0c101f10f578a59a22b9f6342a78f796</guid>
+      <pubDate>Wed, 31 Dec 2025 18:45:16 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
