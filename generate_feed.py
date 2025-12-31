@@ -2,23 +2,13 @@ import re
 import time
 import hashlib
 from datetime import datetime, timezone
-from urllib.parse import (
-    urlparse,
-    urlunparse,
-    parse_qsl,
-    urlencode,
-    unquote,
-)
+from urllib.parse import urlparse, parse_qsl, urlencode, unquote
 from email.utils import parsedate_to_datetime
 
 import requests
 import feedparser
 from feedgen.feed import FeedGenerator
 
-
-# -----------------------
-# Configuration
-# -----------------------
 
 SUBREDDITS = [
     "medicine",
@@ -36,7 +26,7 @@ SUBREDDITS = [
 POST_LIMIT = 50
 
 HEADERS = {
-    "User-Agent": "jd261-marit-reddit-newsfeed/0.2 (RSS aggregation for personal use)"
+    "User-Agent": "jd261-marit-reddit-newsfeed/0.3 (RSS aggregation)"
 }
 
 URL_RE = re.compile(r"https?://\S+")
@@ -57,10 +47,6 @@ REDDIT_HOSTS = {
 }
 
 
-# -----------------------
-# Helpers
-# -----------------------
-
 def normalize_url(raw: str) -> str:
     raw = raw.strip().rstrip(').,]>"\'')
     try:
@@ -73,12 +59,7 @@ def normalize_url(raw: str) -> str:
             for (k, v) in parse_qsl(p.query, keep_blank_values=True)
             if k not in DROP_QUERY_KEYS
         ]
-        new_query = urlencode(q)
-
-        scheme = "https" if p.scheme in ("http", "https") else p.scheme
-        return urlunparse(
-            (scheme, p.netloc, p.path, p.params, new_query, p.fragment)
-        )
+        return p._replace(query=urlencode(q)).geturl()
     except Exception:
         return raw
 
@@ -92,40 +73,29 @@ def is_reddit_host(url: str) -> bool:
 
 
 def unwrap_reddit_media(url: str) -> str:
-    """
-    Converts:
-      https://www.reddit.com/media?url=<ENCODED_URL>
-    into the real outbound URL.
-    """
     try:
         p = urlparse(url)
-        if (
-            p.netloc.lower() in {"reddit.com", "www.reddit.com", "old.reddit.com"}
-            and p.path == "/media"
-        ):
+        if p.netloc.endswith("reddit.com") and p.path == "/media":
             qs = dict(parse_qsl(p.query))
-            if "url" in qs and qs["url"]:
+            if "url" in qs:
                 return normalize_url(unquote(qs["url"]))
     except Exception:
         pass
-
     return url
 
 
-def fetch_subreddit_rss(subreddit: str, limit: int):
+def fetch_subreddit_rss(subreddit: str):
     url = f"https://www.reddit.com/r/{subreddit}/new.rss?ts={int(time.time())}"
     r = requests.get(url, headers=HEADERS, timeout=20)
     r.raise_for_status()
-
-    feed = feedparser.parse(r.text)
-    return feed.entries[:limit]
+    return feedparser.parse(r.text).entries[:POST_LIMIT]
 
 
 def extract_external_links(entry):
     links = set()
 
-    summary = getattr(entry, "summary", "") or ""
-    for m in URL_RE.findall(summary):
+    text = getattr(entry, "summary", "") or ""
+    for m in URL_RE.findall(text):
         links.add(normalize_url(m))
 
     if getattr(entry, "link", None):
@@ -134,24 +104,17 @@ def extract_external_links(entry):
     cleaned = set()
     for l in links:
         l = unwrap_reddit_media(l)
-        if is_reddit_host(l):
-            continue
-        cleaned.add(l)
+        if not is_reddit_host(l):
+            cleaned.add(l)
 
     return cleaned
 
 
-# -----------------------
-# RSS generation
-# -----------------------
-
 def build_rss(items):
     fg = FeedGenerator()
     fg.id("reddit:medicine:external-links")
-    fg.title("External links shared across medicine subreddits")
-    fg.description(
-        "Outbound articles and resources shared across selected medicine-related subreddits."
-    )
+    fg.title("External links from medicine subreddits")
+    fg.description("Outbound articles shared across medicine-related subreddits.")
     fg.link(href="rss.xml", rel="self")
     fg.updated(datetime.now(timezone.utc))
 
@@ -166,21 +129,43 @@ def build_rss(items):
     return fg.rss_str(pretty=True)
 
 
-# -----------------------
-# Main
-# -----------------------
-
 def main():
     seen = set()
     items = []
 
     for sub in SUBREDDITS:
-        entries = fetch_subreddit_rss(sub, POST_LIMIT)
-        time.sleep(2.0)
+        entries = fetch_subreddit_rss(sub)
+        time.sleep(2)
 
         for e in entries:
-            title = getattr(e, "title", "") or f"Link from r/{sub}"
+            title = getattr(e, "title", f"Link from r/{sub}")
             reddit_link = getattr(e, "link", "")
 
-            published = datetime.now(timezone.utc)
-            if getattr(e, "published", None):
+            try:
+                published = parsedate_to_datetime(e.published).astimezone(timezone.utc)
+            except Exception:
+                published = datetime.now(timezone.utc)
+
+            for link in extract_external_links(e):
+                guid = hashlib.sha256(f"{sub}|{title}|{link}".encode()).hexdigest()
+                if guid in seen:
+                    continue
+
+                seen.add(guid)
+                items.append({
+                    "guid": guid,
+                    "title": title,
+                    "link": link,
+                    "published": published,
+                    "description": f"Source: r/{sub} | Reddit: {reddit_link}",
+                })
+
+    items.sort(key=lambda x: x["published"], reverse=True)
+    rss = build_rss(items[:300])
+
+    with open("rss.xml", "wb") as f:
+        f.write(rss)
+
+
+if __name__ == "__main__":
+    main()
