@@ -31,12 +31,15 @@ SUBREDDITS = [
 POST_LIMIT = 50
 MAX_ITEMS = 250  # cap total RSS items
 
+# IMPORTANT: set this to your real published feed URL
+FEED_URL = "https://jd261.github.io/marit-reddit-newsfeed/rss.xml"
+
 HEADERS_REDDIT = {
-    "User-Agent": "jd261-marit-reddit-newsfeed/0.4 (RSS aggregation, personal use)"
+    "User-Agent": "jd261-marit-reddit-newsfeed/0.5 (RSS aggregation, personal use)"
 }
 
 HEADERS_FETCH = {
-    "User-Agent": "Mozilla/5.0 (compatible; MaritRedditNewsfeed/0.4; +https://jd261.github.io/marit-reddit-newsfeed/)"
+    "User-Agent": "Mozilla/5.0 (compatible; MaritRedditNewsfeed/0.5; +https://jd261.github.io/marit-reddit-newsfeed/)"
 }
 
 DROP_QUERY_KEYS = {
@@ -59,7 +62,6 @@ REDDIT_HOSTS = {
     "b.thumbs.redditmedia.com",
 }
 
-# Things we do not want in a "news/blog" feed
 BLOCKED_HOST_SUFFIXES = {
     "youtube.com",
     "youtu.be",
@@ -74,7 +76,6 @@ BLOCKED_HOST_SUFFIXES = {
     "docs.google.com",
     "drive.google.com",
     "forms.gle",
-    "subredditstats.com",
 }
 
 BLOCKED_EXTENSIONS = {
@@ -99,6 +100,24 @@ TW_TITLE_RE = re.compile(
     re.IGNORECASE | re.DOTALL
 )
 
+# Detect "junk" titles from bot protection, paywalls, consent pages, etc.
+JUNK_TITLE_PATTERNS = [
+    r"just a moment",
+    r"checking your browser",
+    r"verify you are human",
+    r"access denied",
+    r"permission denied",
+    r"request blocked",
+    r"service unavailable",
+    r"temporarily unavailable",
+    r"enable javascript",
+    r"cookies are required",
+    r"consent",
+    r"subscribe to continue",
+    r"sign in to continue",
+]
+JUNK_TITLE_RE = re.compile("|".join(JUNK_TITLE_PATTERNS), re.IGNORECASE)
+
 
 # -----------------------
 # URL helpers
@@ -117,7 +136,11 @@ def normalize_url(raw: str) -> str:
             if k not in DROP_QUERY_KEYS
         ]
 
-        return p._replace(query=urlencode(q)).geturl()
+        scheme = p.scheme
+        if scheme in ("http", "https"):
+            scheme = "https"  # prefer https
+
+        return p._replace(scheme=scheme, query=urlencode(q)).geturl()
     except Exception:
         return raw
 
@@ -144,22 +167,15 @@ def unwrap_reddit_media(url: str) -> str:
 
 
 def looks_like_news_or_blog_url(url: str) -> bool:
-    """
-    Heuristic filter:
-    - Must be http(s)
-    - Not Reddit-owned
-    - Not obviously an image/video/doc file
-    - Not obviously a social/video platform or docs/forms
-    """
     try:
         p = urlparse(url)
         if p.scheme not in ("http", "https"):
             return False
 
-        host = p.netloc.lower()
         if is_reddit_host(url):
             return False
 
+        host = p.netloc.lower()
         for suf in BLOCKED_HOST_SUFFIXES:
             if host == suf or host.endswith("." + suf):
                 return False
@@ -169,17 +185,13 @@ def looks_like_news_or_blog_url(url: str) -> bool:
             if path.endswith(ext):
                 return False
 
-        # drop obvious "comment threads" and "permalink" style pages on reddit mirrors
-        if "/comments/" in path and ("reddit" in host):
-            return False
-
         return True
     except Exception:
         return False
 
 
 # -----------------------
-# Fetch and parse Reddit RSS
+# Reddit RSS
 # -----------------------
 
 def fetch_subreddit_rss(subreddit: str):
@@ -190,22 +202,17 @@ def fetch_subreddit_rss(subreddit: str):
 
 
 def extract_external_links(entry):
-    """
-    Pull outbound href targets from the RSS summary HTML.
-    This avoids the '<link>... "&gt; ...</link>' pollution you saw.
-    """
     links = set()
-
     summary = getattr(entry, "summary", "") or ""
 
-    # Prefer href="..." extraction (cleanest)
+    # Prefer href targets
     for href in HREF_RE.findall(summary):
         href = html.unescape(href)
         href = normalize_url(unwrap_reddit_media(href))
         if looks_like_news_or_blog_url(href):
             links.add(href)
 
-    # Fallback: if no hrefs, try a safer URL regex
+    # Fallback
     if not links:
         for u in URL_RE_FALLBACK.findall(summary):
             u = html.unescape(u)
@@ -217,66 +224,75 @@ def extract_external_links(entry):
 
 
 # -----------------------
-# Fetch title from external pages
+# Title fetching and canonicalization
 # -----------------------
 
 def clean_title(t: str) -> str:
     t = html.unescape(t or "")
     t = re.sub(r"\s+", " ", t).strip()
-    # Remove common junk wrappers
-    t = t.strip(" \t\r\n-–|")
+    t = t.strip(" \t\r\n-|")
     return t
 
 
-def fetch_page_title(url: str) -> str | None:
+def fetch_page_title_and_final_url(url: str):
     """
-    Best effort title fetch:
-    - HEAD to validate content-type (some servers block HEAD, so we fall back)
-    - GET first ~200KB of HTML and parse og:title, twitter:title, then <title>
+    Returns (title, final_url).
+    If title looks like bot-block/paywall/consent garbage, returns (None, final_url).
     """
+    final_url = url
     try:
-        # Some sites block HEAD, so errors are ok
-        try:
-            h = requests.head(url, headers=HEADERS_FETCH, timeout=12, allow_redirects=True)
-            ctype = (h.headers.get("Content-Type") or "").lower()
-            if ctype and ("text/html" not in ctype):
-                return None
-        except Exception:
-            pass
-
         r = requests.get(url, headers=HEADERS_FETCH, timeout=18, allow_redirects=True)
         r.raise_for_status()
 
+        final_url = normalize_url(r.url)
+
         ctype = (r.headers.get("Content-Type") or "").lower()
         if ctype and ("text/html" not in ctype):
-            return None
+            return None, final_url
 
-        # Keep it lightweight
         text = r.text
         if len(text) > 200_000:
             text = text[:200_000]
 
+        title = None
+
         m = OG_TITLE_RE.search(text)
         if m:
-            t = clean_title(m.group(1))
-            if t:
-                return t
+            title = clean_title(m.group(1))
 
-        m = TW_TITLE_RE.search(text)
-        if m:
-            t = clean_title(m.group(1))
-            if t:
-                return t
+        if not title:
+            m = TW_TITLE_RE.search(text)
+            if m:
+                title = clean_title(m.group(1))
 
-        m = TITLE_TAG_RE.search(text)
-        if m:
-            t = clean_title(m.group(1))
-            if t:
-                return t
+        if not title:
+            m = TITLE_TAG_RE.search(text)
+            if m:
+                title = clean_title(m.group(1))
 
-        return None
+        if not title:
+            return None, final_url
+
+        if len(title) < 12:
+            return None, final_url
+
+        if JUNK_TITLE_RE.search(title):
+            return None, final_url
+
+        return title, final_url
     except Exception:
-        return None
+        return None, final_url
+
+
+def canonical_key(url: str) -> str:
+    """
+    Canonical URL key for deduping across all subreddits.
+    Removes tracking params via normalize_url and strips trailing slash.
+    """
+    u = normalize_url(url)
+    if u.endswith("/"):
+        u = u[:-1]
+    return u
 
 
 # -----------------------
@@ -288,7 +304,7 @@ def build_rss(items):
     fg.id("reddit:medicine:external-links")
     fg.title("External links from medicine subreddits")
     fg.description("Outbound articles and blog posts shared across selected medicine-related subreddits.")
-    fg.link(href="rss.xml", rel="self")
+    fg.link(href=FEED_URL, rel="self")
     fg.updated(datetime.now(timezone.utc))
 
     for it in items:
@@ -303,8 +319,9 @@ def build_rss(items):
 
 
 def main():
-    seen = set()
-    items = []
+    # Deduped across ALL subreddits by canonical URL
+    # canonical_url_key -> item dict
+    items_by_url = {}
 
     for sub in SUBREDDITS:
         entries = fetch_subreddit_rss(sub)
@@ -321,42 +338,68 @@ def main():
 
             outbound_links = list(extract_external_links(e))
 
-            for link in outbound_links:
-                # Title from the destination page (news/blog headline)
-                article_title = fetch_page_title(link)
-
-                # If we cannot reliably get a title, skip it.
-                # This is part of "filter out anything that's not news/blog"
+            for raw_link in outbound_links:
+                # Fetch page title and final redirected URL
+                article_title, final_url = fetch_page_title_and_final_url(raw_link)
                 if not article_title:
                     continue
 
-                # Extra filter: reject "empty" titles and obvious non-articles
-                if len(article_title) < 12:
-                    continue
+                key = canonical_key(final_url)
 
-                guid = hashlib.sha256(f"{sub}|{link}".encode()).hexdigest()
-                if guid in seen:
-                    continue
-                seen.add(guid)
+                # Build or merge an item for this URL
+                if key not in items_by_url:
+                    guid = hashlib.sha256(key.encode()).hexdigest()
+                    items_by_url[key] = {
+                        "guid": guid,
+                        "title": article_title,
+                        "link": final_url,
+                        "published": published,
+                        "subs": {sub},
+                        "reddit_posts": [(sub, reddit_link, reddit_post_title)],
+                    }
+                else:
+                    existing = items_by_url[key]
+                    existing["subs"].add(sub)
+                    existing["reddit_posts"].append((sub, reddit_link, reddit_post_title))
 
-                items.append({
-                    "guid": guid,
-                    "title": article_title,
-                    "link": link,
-                    "published": published,
-                    "description": f"Shared on r/{sub} | Reddit post: {reddit_link} | Reddit title: {reddit_post_title}",
-                })
+                    # Keep the most recent Reddit share date
+                    if published > existing["published"]:
+                        existing["published"] = published
 
-                if len(items) >= MAX_ITEMS:
+                if len(items_by_url) >= MAX_ITEMS * 2:
+                    # soft guardrail: avoid runaway work
                     break
 
-            if len(items) >= MAX_ITEMS:
+            if len(items_by_url) >= MAX_ITEMS * 2:
                 break
 
-        if len(items) >= MAX_ITEMS:
+        if len(items_by_url) >= MAX_ITEMS * 2:
             break
 
+    # Convert to list and build descriptions (include "also shared on")
+    items = []
+    for key, it in items_by_url.items():
+        subs_sorted = sorted(it["subs"])
+        shared_on = ", ".join([f"r/{s}" for s in subs_sorted])
+
+        # Include up to 2 Reddit post references to keep descriptions readable
+        post_bits = []
+        for (s, link, title) in it["reddit_posts"][:2]:
+            post_bits.append(f"r/{s}: {link}")
+
+        description = f"Shared on {shared_on} | Reddit posts: " + " | ".join(post_bits)
+
+        items.append({
+            "guid": it["guid"],
+            "title": it["title"],
+            "link": it["link"],
+            "published": it["published"],
+            "description": description,
+        })
+
     items.sort(key=lambda x: x["published"], reverse=True)
+    items = items[:MAX_ITEMS]
+
     rss = build_rss(items)
 
     with open("rss.xml", "wb") as f:
