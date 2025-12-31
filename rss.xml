@@ -2,95 +2,95 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>External links from medicine subreddits</title>
-    <link>rss.xml</link>
+    <link>https://jd261.github.io/marit-reddit-newsfeed/rss.xml</link>
     <description>Outbound articles and blog posts shared across selected medicine-related subreddits.</description>
-    <atom:link href="rss.xml" rel="self"/>
+    <atom:link href="https://jd261.github.io/marit-reddit-newsfeed/rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Dec 2025 19:43:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 19:53:07 +0000</lastBuildDate>
     <item>
       <title>As ACA subsidies end, St. John family sees costs go up</title>
       <link>https://www.chicagotribune.com/2025/12/31/as-aca-subsidies-end-st-john-family-sees-costs-go-up/</link>
-      <description>Shared on r/medicine | Reddit post: https://www.reddit.com/r/medicine/comments/1q0fgcm/tomorrow_the_first_day_of_2026_medicaid_subsidies/ | Reddit title: Tomorrow, the first day of 2026, Medicaid subsidies from the Affordable Care Act (ACA; Obamacare) will expire, doubling or tripling health insurance premiums</description>
-      <guid isPermaLink="false">da53ec9970290fbb0e6e4cb8db76dea0065e14480265bdd79042ca64b896abbf</guid>
-      <pubDate>Wed, 31 Dec 2025 19:42:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Medicaid Coverage by County, 2023</title>
-      <link>https://ccf.georgetown.edu/2025/02/06/medicaid-coverage-by-county-2023/</link>
-      <description>Shared on r/medicine | Reddit post: https://www.reddit.com/r/medicine/comments/1q0fgcm/tomorrow_the_first_day_of_2026_medicaid_subsidies/ | Reddit title: Tomorrow, the first day of 2026, Medicaid subsidies from the Affordable Care Act (ACA; Obamacare) will expire, doubling or tripling health insurance premiums</description>
-      <guid isPermaLink="false">cfff9eb70ed97a214317ec15d38392e63cb9b93329c2efb006365bf7c7ee529a</guid>
-      <pubDate>Wed, 31 Dec 2025 19:42:40 +0000</pubDate>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1q0fgcm/tomorrow_the_first_day_of_2026_medicaid_subsidies/</description>
+      <guid isPermaLink="false">ba3671b930bd9380da9f5929b9ca0ac094ebd33f29069d0dd17ff9b880d1fb4c</guid>
+      <pubDate>Wed, 31 Dec 2025 19:52:34 +0000</pubDate>
     </item>
     <item>
       <title>Congress blocks Obamacare subsidies after shutdown fight, premiums set to surge</title>
       <link>https://www.foxnews.com/politics/congress-fails-save-obamacare-subsidies-after-shutdown-fight-premiums-set-surge</link>
-      <description>Shared on r/medicine | Reddit post: https://www.reddit.com/r/medicine/comments/1q0fgcm/tomorrow_the_first_day_of_2026_medicaid_subsidies/ | Reddit title: Tomorrow, the first day of 2026, Medicaid subsidies from the Affordable Care Act (ACA; Obamacare) will expire, doubling or tripling health insurance premiums</description>
-      <guid isPermaLink="false">def38a8befa88d6093258c25f96573249772e439729e2dad6527e19b69e7fd77</guid>
-      <pubDate>Wed, 31 Dec 2025 19:42:40 +0000</pubDate>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1q0fgcm/tomorrow_the_first_day_of_2026_medicaid_subsidies/</description>
+      <guid isPermaLink="false">3002950c2b0fcd7908a93b31eeb224994b1130508e6b71b8b5367bd2a05bb146</guid>
+      <pubDate>Wed, 31 Dec 2025 19:52:34 +0000</pubDate>
     </item>
     <item>
-      <title>Huntington's disease successfully treated for first time</title>
-      <link>https://www.bbc.com/news/articles/cevz13xkxpro</link>
-      <description>Shared on r/medicine | Reddit post: https://www.reddit.com/r/medicine/comments/1pzzlju/good_news_for_a_change_20_public_health_wins_in/ | Reddit title: Good news, for a change: "20 public health wins in 2025"</description>
-      <guid isPermaLink="false">a04b39cf693f35976a313e11408420049407ffac1abe7dd1b3bfdcef9e1da095</guid>
-      <pubDate>Wed, 31 Dec 2025 19:42:41 +0000</pubDate>
+      <title>Medicaid Coverage by County, 2023</title>
+      <link>https://ccf.georgetown.edu/2025/02/06/medicaid-coverage-by-county-2023/</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1q0fgcm/tomorrow_the_first_day_of_2026_medicaid_subsidies/</description>
+      <guid isPermaLink="false">36f1a0b4ece62ec2ab116fa3e1a0009d17843c7a788164db58f3c2b678bc0173</guid>
+      <pubDate>Wed, 31 Dec 2025 19:52:34 +0000</pubDate>
     </item>
     <item>
       <title>Pages - Governor Moore Launches Free Adult Vaccine Program to Expand Immunization Access for Uninsured and Underinsured Marylanders</title>
       <link>https://health.maryland.gov/newsroom/Pages/Governor%20Moore%20Launches%20Free%20Adult%20Vaccine%20Program%20to%20Expand%20Immunization%20Access%20for%20Uninsured%20and%20Underinsured%20Marylanders.aspx</link>
-      <description>Shared on r/medicine | Reddit post: https://www.reddit.com/r/medicine/comments/1pzzlju/good_news_for_a_change_20_public_health_wins_in/ | Reddit title: Good news, for a change: "20 public health wins in 2025"</description>
-      <guid isPermaLink="false">3456eec52bb780182042c28ea8d648970abf57059b56494b49f8cbe4948b3c10</guid>
-      <pubDate>Wed, 31 Dec 2025 19:42:41 +0000</pubDate>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1pzzlju/good_news_for_a_change_20_public_health_wins_in/</description>
+      <guid isPermaLink="false">fce9fa8a61d6be6afba8b90951a2d4504c36d720e6557a818a27a20c174d35e4</guid>
+      <pubDate>Wed, 31 Dec 2025 19:52:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Huntington's disease successfully treated for first time</title>
+      <link>https://www.bbc.com/news/articles/cevz13xkxpro</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1pzzlju/good_news_for_a_change_20_public_health_wins_in/</description>
+      <guid isPermaLink="false">af02c4aceb24d97cdf71c609ac18f85def9d5c0765d9d2a958a3ffb141e6dbfd</guid>
+      <pubDate>Wed, 31 Dec 2025 19:52:34 +0000</pubDate>
     </item>
     <item>
       <title>Pokemon or Pill? - The Ultimate Guessing Game</title>
       <link>https://pokepill.net/</link>
-      <description>Shared on r/medicine | Reddit post: https://www.reddit.com/r/medicine/comments/1pyngdf/pokémon_or_pill_a_silly_quiz_game/ | Reddit title: Pokémon or Pill? A silly quiz game</description>
-      <guid isPermaLink="false">91d362a8225c3d12a188b647298f5c7873843f9a7ce1e3b71cb9e29bc81d98b7</guid>
-      <pubDate>Wed, 31 Dec 2025 19:42:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>VER-01 Shows Enhanced Gastrointestinal Tolerability, Superior Pain Relief, and Improved Sleep Quality Compared to Opioids in Treating Chronic Low Back Pain: A Randomized Phase 3 Clinical Trial - Pain and Therapy</title>
-      <link>https://link.springer.com/article/10.1007/s40122-025-00773-z</link>
-      <description>Shared on r/medicine | Reddit post: https://www.reddit.com/r/medicine/comments/1py9xp0/wsj_gift_a_surprising_treatment_for_chronic_lower/ | Reddit title: WSJ (Gift): A Surprising Treatment for Chronic Lower Back Pain: Cannabis (two new RCT's)</description>
-      <guid isPermaLink="false">f4fcf00485695994a9e486443d9c59a861d7e2dc6d28cbdff2df934e877c0545</guid>
-      <pubDate>Wed, 31 Dec 2025 19:42:43 +0000</pubDate>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1pyngdf/pokémon_or_pill_a_silly_quiz_game/</description>
+      <guid isPermaLink="false">7ab43880f0ae48f2a56b992f95d93fa8c437987ec6aeb2dbcaf3f2a077007dfd</guid>
+      <pubDate>Wed, 31 Dec 2025 19:52:36 +0000</pubDate>
     </item>
     <item>
       <title>Full-spectrum extract from Cannabis sativa DKJ127 for chronic low back pain: a phase 3 randomized placebo-controlled trial - Nature Medicine</title>
       <link>https://www.nature.com/articles/s41591-025-03977-0</link>
-      <description>Shared on r/medicine | Reddit post: https://www.reddit.com/r/medicine/comments/1py9xp0/wsj_gift_a_surprising_treatment_for_chronic_lower/ | Reddit title: WSJ (Gift): A Surprising Treatment for Chronic Lower Back Pain: Cannabis (two new RCT's)</description>
-      <guid isPermaLink="false">c99cc7bcbf37e35566fbf3d014f7662eb9ac110232f9078330bb44f112cd5110</guid>
-      <pubDate>Wed, 31 Dec 2025 19:42:43 +0000</pubDate>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1py9xp0/wsj_gift_a_surprising_treatment_for_chronic_lower/</description>
+      <guid isPermaLink="false">dc0afdc6cb7c4b7bf54e4a6fcf5ebef142be86b5b27fe1527a9e5db6d51305b8</guid>
+      <pubDate>Wed, 31 Dec 2025 19:52:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>VER-01 Shows Enhanced Gastrointestinal Tolerability, Superior Pain Relief, and Improved Sleep Quality Compared to Opioids in Treating Chronic Low Back Pain: A Randomized Phase 3 Clinical Trial - Pain and Therapy</title>
+      <link>https://link.springer.com/article/10.1007/s40122-025-00773-z</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1py9xp0/wsj_gift_a_surprising_treatment_for_chronic_lower/</description>
+      <guid isPermaLink="false">1dd6fddeae6dde547b6050f400d0cce35f68de838395cd2c088d5c603762ab13</guid>
+      <pubDate>Wed, 31 Dec 2025 19:52:36 +0000</pubDate>
     </item>
     <item>
       <title>Trump-Vance Administration Bans Abortion Care and Counseling for Veterans in Secret - Democracy Forward</title>
       <link>https://democracyforward.org/updates/trump-vance-administration-bans-abortion-care-and-counseling-for-veterans-in-secret/</link>
-      <description>Shared on r/medicine | Reddit post: https://www.reddit.com/r/medicine/comments/1pvolf0/va_moves_to_reinstate_the_full_exclusion_on/ | Reddit title: VA moves to reinstate the "full exclusion on abortion and abortion counseling," ending services effective Dec 22</description>
-      <guid isPermaLink="false">1f9caba332a5849850fc9b3bf1ec0b789b79b7c1803649fb68eeaed3950380ae</guid>
-      <pubDate>Wed, 31 Dec 2025 19:42:47 +0000</pubDate>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1pvolf0/va_moves_to_reinstate_the_full_exclusion_on/</description>
+      <guid isPermaLink="false">2a031a71e612cf999ab979cac0cf34c30576dfbeb37403ed1b242d5427797597</guid>
+      <pubDate>Wed, 31 Dec 2025 19:52:39 +0000</pubDate>
     </item>
     <item>
       <title>Prashanth Sreekumar's wife shares story after he died seeking help</title>
       <link>https://calgary.citynews.ca/2025/12/30/prashanth-sreekumar-wife-story-hospital-death/</link>
-      <description>Shared on r/emergencymedicine | Reddit post: https://www.reddit.com/r/emergencymedicine/comments/1q07vb8/ers_are_overloaded/ | Reddit title: ERs are overloaded</description>
-      <guid isPermaLink="false">d62039e440606df1e4af4bbbfc0da19275880efa665b4e463e205ec5f2aad4c4</guid>
-      <pubDate>Wed, 31 Dec 2025 19:42:50 +0000</pubDate>
+      <description>Shared on r/emergencymedicine | Reddit posts: r/emergencymedicine: https://www.reddit.com/r/emergencymedicine/comments/1q07vb8/ers_are_overloaded/</description>
+      <guid isPermaLink="false">e788510d010d880e6ddc4cfbedff4bda40ed0dbeeb62ea0229fc45bb0c083f13</guid>
+      <pubDate>Wed, 31 Dec 2025 19:52:42 +0000</pubDate>
     </item>
     <item>
       <title>The coyote who never fell. Why Geoffrey Hinton’s prediction about radiologists missed the mark</title>
       <link>https://2digital.news/the-coyote-who-never-fell-why-geoffrey-hintons-prediction-about-radiologists-missed-the-mark/</link>
-      <description>Shared on r/Radiology | Reddit post: https://www.reddit.com/r/Radiology/comments/1pzno73/the_coyote_who_never_fell_why_geoffrey_hintons/ | Reddit title: The coyote who never fell. Why Geoffrey Hinton’s prediction about radiologists missed the mark</description>
-      <guid isPermaLink="false">8bb441f6f9437040071656bfab0ada2dea733590f70a2f33d7006dd60462ea8c</guid>
-      <pubDate>Wed, 31 Dec 2025 19:43:05 +0000</pubDate>
+      <description>Shared on r/Radiology | Reddit posts: r/Radiology: https://www.reddit.com/r/Radiology/comments/1pzno73/the_coyote_who_never_fell_why_geoffrey_hintons/</description>
+      <guid isPermaLink="false">5a959248f7df2d4b04b2f8fcf4f55e2b3d749b5343057045cf28d10b033bb79f</guid>
+      <pubDate>Wed, 31 Dec 2025 19:52:59 +0000</pubDate>
     </item>
     <item>
       <title>New research challenges our understanding of Parkinson’s disease - The Brighter Side of News</title>
-      <link>http://thebrighterside.news/post/new-research-challenges-our-understanding-of-parkinsons-disease</link>
-      <description>Shared on r/neurology | Reddit post: https://www.reddit.com/r/neurology/comments/1psep84/new_research_challenges_our_understanding_of/ | Reddit title: New research challenges our understanding of Parkinson’s disease</description>
-      <guid isPermaLink="false">ba5123df53fda046f7876ca1e651d9035aa4a6d9fd7e4d41239f2dd9b2ced1f1</guid>
-      <pubDate>Wed, 31 Dec 2025 19:43:08 +0000</pubDate>
+      <link>https://www.thebrighterside.news/post/new-research-challenges-our-understanding-of-parkinsons-disease/</link>
+      <description>Shared on r/neurology | Reddit posts: r/neurology: https://www.reddit.com/r/neurology/comments/1psep84/new_research_challenges_our_understanding_of/</description>
+      <guid isPermaLink="false">3aa032efe8eb2b1039af8d9b370a8b4bac5357b142c354121966d20a1de48117</guid>
+      <pubDate>Wed, 31 Dec 2025 19:53:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
