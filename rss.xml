@@ -7,69 +7,76 @@
     <atom:link href="https://jd261.github.io/marit-reddit-newsfeed/rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 08:51:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 09:40:31 +0000</lastBuildDate>
     <item>
       <title>Your next primary care doctor could be online only, accessed through an AI tool</title>
       <link>https://www.npr.org/sections/shots-health-news/2026/01/09/nx-s1-5670382/primary-care-doctor-shortage-medical-ai-diagnosis</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1q8lf1t/npr_on_mass_gen_brigham_and_k_healths/</description>
       <guid isPermaLink="false">d91bd8c208e18aa75dbb618b107e96ff8e44359e5b70113f3f2467ed7b19f82a</guid>
-      <pubDate>Sat, 10 Jan 2026 08:50:34 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 09:40:06 +0000</pubDate>
     </item>
     <item>
       <title>OpenAI launches ChatGPT Health, encouraging users to connect their medical records</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/857640/openai-launches-chatgpt-health-connect-medical-records</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1q6ssaa/openai_launches_chatgpt_health_encouraging_users/</description>
       <guid isPermaLink="false">d846085ca0a283998dc8f5a5c63504c084df42b72d0bd6d5311f4cf0065e21b1</guid>
-      <pubDate>Sat, 10 Jan 2026 08:50:35 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 09:40:07 +0000</pubDate>
     </item>
     <item>
       <title>Texas Medical Board</title>
       <link>https://profile.tmb.state.tx.us/StreamView.aspx?135a91a3-a770-49e6-a164-294696a6ff9f=</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1q63bpb/houston_area_plastic_surgeon_arrested_for/</description>
       <guid isPermaLink="false">05a466e2db40bf8a77bbb48c45e881d0d87f27694233d32091219c188b1a9bf1</guid>
-      <pubDate>Sat, 10 Jan 2026 08:50:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAC Websites, Secure Internet Portals, &amp; Electronic Mailing Lists | CMS</title>
-      <link>https://www.cms.gov/MAC-info</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1q87qg9/how_to_find_patients_last_awv_date/</description>
-      <guid isPermaLink="false">398a9a7fdfde82e2bbda358f3c69900597d00060b38a83563376d3c7c098c2f0</guid>
-      <pubDate>Sat, 10 Jan 2026 08:50:41 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 09:40:07 +0000</pubDate>
     </item>
     <item>
       <title>Home - Centers for Medicare &amp; Medicaid Services | CMS</title>
       <link>https://www.cms.gov/</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1q87qg9/how_to_find_patients_last_awv_date/</description>
       <guid isPermaLink="false">3b093381f00e19bc22899e587f11b3ce6b353acfe8888afb9421d86fd7f263b0</guid>
-      <pubDate>Sat, 10 Jan 2026 08:50:41 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 09:40:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>MAC Websites, Secure Internet Portals, &amp; Electronic Mailing Lists | CMS</title>
+      <link>https://www.cms.gov/MAC-info</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1q87qg9/how_to_find_patients_last_awv_date/</description>
+      <guid isPermaLink="false">398a9a7fdfde82e2bbda358f3c69900597d00060b38a83563376d3c7c098c2f0</guid>
+      <pubDate>Sat, 10 Jan 2026 09:40:13 +0000</pubDate>
     </item>
     <item>
       <title>How to Get Connected | CMS</title>
       <link>https://www.cms.gov/data-research/cms-information-technology/hipaa-eligibility-transaction-system/how-to-get-connected</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1q87qg9/how_to_find_patients_last_awv_date/</description>
       <guid isPermaLink="false">74fdd7c07bd9f7bd8c0a13686a1c355f2336f74bca948f9d62c76e4103852c58</guid>
-      <pubDate>Sat, 10 Jan 2026 08:50:41 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 09:40:13 +0000</pubDate>
     </item>
     <item>
       <title>Morning Report - Medical Education</title>
       <link>https://www.morningreport.net/</link>
       <description>Shared on r/InternalMedicine | Reddit posts: r/InternalMedicine: https://www.reddit.com/r/InternalMedicine/comments/1q6qlim/i_built_a_daily_5minute_morning_report_game_try/</description>
       <guid isPermaLink="false">df1bab7a3c49dc16671e142fbcd8fd6e54d58edb4f02ea6b5abf82c69af84b85</guid>
-      <pubDate>Sat, 10 Jan 2026 08:50:44 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 09:40:15 +0000</pubDate>
     </item>
     <item>
       <title>Post Extubation Pediatric Code - Tonsillectomy</title>
       <link>https://newsletter.anesthesiologymalpractice.com/p/post-extubation-pediatric-code-tonsillectomy</link>
       <description>Shared on r/Anesthesiology | Reddit posts: r/Anesthesiology: https://www.reddit.com/r/anesthesiology/comments/1q8ijjn/postextubation_code_following_tonsillectomy_peds/</description>
       <guid isPermaLink="false">0652be3164327f832c8bf84ebcefa9d11b5b2b7f64d5061c12fff9e4d9201670</guid>
-      <pubDate>Sat, 10 Jan 2026 08:50:52 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 09:40:23 +0000</pubDate>
     </item>
     <item>
       <title>How string theory helped solve a mystery of the brain’s architecture</title>
       <link>https://news.northeastern.edu/2026/01/07/string-theory-neuron-connections/</link>
       <description>Shared on r/neurology | Reddit posts: r/neurology: https://www.reddit.com/r/neurology/comments/1q7h7mq/using_the_same_math_employed_by_string_theorists/</description>
       <guid isPermaLink="false">ebf6c6ced44155c2d4b788dfceca2555adbbec5879b194c9a8022a228ce5e953</guid>
-      <pubDate>Sat, 10 Jan 2026 08:50:58 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 09:40:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ophthaltalks Podcast</title>
+      <link>https://open.spotify.com/show/52HgZe5mukKEGKjd4UB1pG?si=59bb695410fa4356</link>
+      <description>Shared on r/ophthalmology | Reddit posts: r/ophthalmology: https://www.reddit.com/r/Ophthalmology/comments/1q1u0xk/new_ophthalmology_podcast_ophthaltalks/</description>
+      <guid isPermaLink="false">4bcabb1b5d5fb2a8162119a8b081ec5f42691f14668ceb7d50ec62fe3bbad5c7</guid>
+      <pubDate>Sat, 10 Jan 2026 09:40:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
