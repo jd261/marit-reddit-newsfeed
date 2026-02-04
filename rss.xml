@@ -7,125 +7,153 @@
     <atom:link href="https://jd261.github.io/marit-reddit-newsfeed/rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 22:51:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 23:19:35 +0000</lastBuildDate>
     <item>
       <title>Aaron Rupar (@atrupar.com)</title>
       <link>https://bsky.app/profile/atrupar.com/post/3mdvk4dwmed2k</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1queeqi/dr_oz_theres_no_question_about_it_whether_you/</description>
       <guid isPermaLink="false">76cb72574723cef5e4b6f58406dedb0e32e1feb111b5f152e24ad68317a9e4a5</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:32 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:18:56 +0000</pubDate>
     </item>
     <item>
       <title>Telehealth policy updates</title>
       <link>https://telehealth.hhs.gov/providers/telehealth-policy/telehealth-policy-updates</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1qu1knc/did_medicare_telehealth_coverage_just_expire/</description>
       <guid isPermaLink="false">66c62bdc8b544af58b39aa360a3d0bc74473916b1490a470fd0402e7d8fd3e2c</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:32 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:18:56 +0000</pubDate>
     </item>
     <item>
       <title>Source: Measles outbreak reported at ICE's Dilley family detention facility</title>
       <link>https://www.sacurrent.com/news/san-antonio-news/source-measles-outbreak-reported-at-ices-dilley-family-detention-facility/</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1qtip6m/measles_outbreak_reported_at_ices_dilley_family/</description>
       <guid isPermaLink="false">f21554bbb7e04f81aebd7801d3975f73b37959a552fabe8d91ccd5a8485bdb08</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:32 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:18:57 +0000</pubDate>
     </item>
     <item>
       <title>The U.S. will likely lose its measles elimination status. Here's what that means</title>
       <link>https://www.npr.org/2026/01/31/nx-s1-5694681/measles-elimination-status-south-carolina-texas-outbreak</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1qs8ta5/the_us_will_likely_lose_its_measles_elimination/</description>
       <guid isPermaLink="false">eb2ae2087f92df3ba5666631f3a97df15e379945e132bccac20865bdb4eb4e85</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:35 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:18:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Adam Gallagher of food blog Inspired Taste discusses the dangers of AI-recipe slop</title>
+      <link>https://www.whro.org/2026-01-25/adam-gallagher-of-food-blog-inspired-taste-discusses-the-dangers-of-ai-recipe-slop</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1qqn209/soggy_cookies_chatgpt_understanding_the/</description>
+      <guid isPermaLink="false">10f7031bda49af0d3bcba7b84e0dc6f124516f3d3e93ac3c9e3e2b7531c3c58e</guid>
+      <pubDate>Wed, 04 Feb 2026 23:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A systematic review and meta-analysis of diagnostic performance comparison between generative AI and physicians - npj Digital Medicine</title>
+      <link>https://www.nature.com/articles/s41746-025-01543-z</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1qqn209/soggy_cookies_chatgpt_understanding_the/</description>
+      <guid isPermaLink="false">ff7dcfbf16119f18d6f9d4bc113ffd10972691ec8ff49568222faa2cba789b55</guid>
+      <pubDate>Wed, 04 Feb 2026 23:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bill Gates on AI and Innovation | Harvard Magazine</title>
+      <link>https://www.harvardmagazine.com/university-news/harvard-bill-gates-ai-and-innovation</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1qqn209/soggy_cookies_chatgpt_understanding_the/</description>
+      <guid isPermaLink="false">472e5ad75b59f4975f89218ab870002539276664e056c3b6b38edc3b86576a0f</guid>
+      <pubDate>Wed, 04 Feb 2026 23:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Signal Fidelity Index-aware calibration for addressing distributional shift in predictive modeling across heterogeneous real-world data - Scientific Reports</title>
+      <link>https://www.nature.com/articles/s41598-025-32656-w</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1qqn209/soggy_cookies_chatgpt_understanding_the/</description>
+      <guid isPermaLink="false">74447d96afc14a0142bc1e82e6ac806218832961ba2268fbe03e9ea6c63aabff</guid>
+      <pubDate>Wed, 04 Feb 2026 23:19:00 +0000</pubDate>
     </item>
     <item>
       <title>Your Next Primary Care Doctor Could Be Online Only, Accessed Through an AI Tool - KFF Health News</title>
       <link>https://kffhealthnews.org/news/article/ai-primary-care-doctors-shortages-massachusetts-mass-general-brigham/</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1qubffa/your_next_primary_care_doctor_could_be_online/</description>
       <guid isPermaLink="false">281b427fa5791b9b777459e0b0ae7960b840e5bb111ccef340f597a0e98d78fe</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:40 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:08 +0000</pubDate>
     </item>
     <item>
       <title>CLINICAL CIRCUMFERENCE - ICD-10 Defense Protocol</title>
       <link>https://dormantone.github.io/trishoot/hcc.html</link>
       <description>Shared on r/InternalMedicine | Reddit posts: r/InternalMedicine: https://www.reddit.com/r/InternalMedicine/comments/1qqfqxa/1980s_style_video_game_based_on_hcc_and_icd10/</description>
       <guid isPermaLink="false">82116b3f5a7b6e1bad9079f5b472f847cf50de133eaf98f847029c7da51ccd06</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:43 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:10 +0000</pubDate>
     </item>
     <item>
       <title>IBSC FP-C Exam Prep Test 2026 App - App Store</title>
       <link>https://apps.apple.com/us/app/ibsc-fp-c-exam-prep-test-2026/id6753771537</link>
       <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1qhaay5/fpc/</description>
       <guid isPermaLink="false">09cc8a555bfb15bc48e37b0e73ea51120eec1e808791c2f4fd326b84072ce77a</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:45 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:14 +0000</pubDate>
     </item>
     <item>
       <title>Detransitioner wins $2 million against New York docs who pushed double mastectomy</title>
       <link>https://nypost.com/2026/01/31/us-news/detransitioner-wins-2-million-against-new-york-docs-who-pushed-double-mastectomy/</link>
       <description>Shared on r/Psychiatry | Reddit posts: r/Psychiatry: https://www.reddit.com/r/Psychiatry/comments/1qtk5kv/detransitioner_wins_2_million_against_new_york/</description>
       <guid isPermaLink="false">f0c1674ca42c971260b42439ff4bd237000bf846077a33160fc267b176cddf2d</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:48 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:17 +0000</pubDate>
     </item>
     <item>
       <title>Bill Status H.237</title>
       <link>https://legislature.vermont.gov/bill/status/2026/H.237</link>
       <description>Shared on r/Psychiatry | Reddit posts: r/Psychiatry: https://www.reddit.com/r/Psychiatry/comments/1qs6z0s/psychologists_prescribing_in_vermont_house_says/</description>
       <guid isPermaLink="false">21e438692f929572128d176e695fc8d149b1c8a8a8357c5fd40ecc43fd1a46fe</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:49 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:18 +0000</pubDate>
     </item>
     <item>
       <title>‘Go to God, baby’: Lindsay Clancy files malpractice lawsuit, says she heard a voice ordering her to kill her children</title>
       <link>https://www.boston.com/news/crime/2026/01/27/lindsay-clancy-malpractice-lawsuit/</link>
       <description>Shared on r/Psychiatry | Reddit posts: r/Psychiatry: https://www.reddit.com/r/Psychiatry/comments/1qr8yud/lindsay_clancy_case_filing_for_standard_of_care/</description>
       <guid isPermaLink="false">f2d95642e87a3e029e76b774edde4356a99ba6c9281a186360f25d4097f90c87</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:51 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:19 +0000</pubDate>
     </item>
     <item>
       <title>Handshake AI Fellowship</title>
       <link>https://joinhandshake.com/fellowship-program/opportunities/anesthesiologists-ai-trainer/</link>
       <description>Shared on r/Anesthesiology | Reddit posts: r/Anesthesiology: https://www.reddit.com/r/anesthesiology/comments/1qvuoj2/ai_remote_side_gigs/</description>
       <guid isPermaLink="false">f26f0c5176fee86c275fd23771a5a5b5eb4c3fb607d38e6a4ed4c3834d75c5f4</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:53 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:21 +0000</pubDate>
     </item>
     <item>
       <title>Joint Communication from the American Society of Anesthesiologists and the Society for Pediatric Anesthesia</title>
       <link>https://www.asahq.org/advocating-for-you/guidance/asa-spa-neurological</link>
       <description>Shared on r/Anesthesiology | Reddit posts: r/Anesthesiology: https://www.reddit.com/r/anesthesiology/comments/1quuaq9/anesthesia_for_venezuelans/</description>
       <guid isPermaLink="false">770dc6b823ca4b6c4f1151e4c52b5827d47478fab0dfd4cd9b3944d352b46a3a</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:54 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:22 +0000</pubDate>
     </item>
     <item>
       <title>OYE Therapeutics earns FDA clearance for anesthesia reversal drug - Becker’s ASC</title>
       <link>https://www.beckersasc.com/anesthesia/oye-therapeutics-earns-fda-clearance-for-anesthesia-reversal-drug/</link>
       <description>Shared on r/Anesthesiology | Reddit posts: r/Anesthesiology: https://www.reddit.com/r/anesthesiology/comments/1quu3nb/oye_anesthesia_reversal_drug/</description>
       <guid isPermaLink="false">ca6a53c253ebbac25480ea99284fb6230a7b0a9d15e4eba3a711ee0aa84ada78</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:54 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:22 +0000</pubDate>
     </item>
     <item>
       <title>61° Congresso AINPeNC e 51° Congresso AIRIC - AINPeNC</title>
       <link>https://ainpenc.it/61-congresso-ainpenc-e-51-congresso-airic/</link>
       <description>Shared on r/neurology | Reddit posts: r/neurology: https://www.reddit.com/r/neurology/comments/1qvpn5f/neuropathology_neurobiology_and_brain_aging_in/</description>
       <guid isPermaLink="false">7127c6291711e05e8c635cd6669aa15e11ad47e8fb796442d5e1c2410a5b3261</guid>
-      <pubDate>Wed, 04 Feb 2026 22:50:59 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:28 +0000</pubDate>
     </item>
     <item>
       <title>Japan's Stem Cell Research Helps Paralysed Patient Walk Again | RathBiotaClan</title>
       <link>https://www.rathbiotaclan.com/japans-stem-cell-research-helps-paralysed-patient-walk-again/</link>
       <description>Shared on r/neurology | Reddit posts: r/neurology: https://www.reddit.com/r/neurology/comments/1qr8dgc/the_study_shows_japans_stem_cell_research_helps/</description>
       <guid isPermaLink="false">29608ecc8db2bdfeeca487aef99f1e0d537b2bc0e810e27609c9f450892fed73</guid>
-      <pubDate>Wed, 04 Feb 2026 22:51:02 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:31 +0000</pubDate>
     </item>
     <item>
       <title>Telemedicine Ends For Most Americans In January 2026 (…maybe)</title>
       <link>https://hospitalmedicaldirector.com/telemedicine-ends-for-most-americans-in-january-2026-maybe/</link>
       <description>Shared on r/neurology | Reddit posts: r/neurology: https://www.reddit.com/r/neurology/comments/1qkks5g/telemedicine_ends_for_most_in_january_2026_except/</description>
       <guid isPermaLink="false">dafdf772375c380201e73852389a41821092124b7c31caa39a57ec86f1e0acbb</guid>
-      <pubDate>Wed, 04 Feb 2026 22:51:03 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:32 +0000</pubDate>
     </item>
     <item>
       <title>Ophthalmology Courses 2026 | Free eBook by Ophthalmology24</title>
       <link>https://www.ophthalmology24.com/ebooks-and-materials/2026-ebook-courses</link>
       <description>Shared on r/ophthalmology | Reddit posts: r/ophthalmology: https://www.reddit.com/r/Ophthalmology/comments/1qs17kc/list_of_ophthalmology_surgical_courses_in_2026/</description>
       <guid isPermaLink="false">e5d913922e2f45bfe7c91cbf694047a722242a667e7e88233ea8ca856fd80d27</guid>
-      <pubDate>Wed, 04 Feb 2026 22:51:05 +0000</pubDate>
+      <pubDate>Wed, 04 Feb 2026 23:19:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
