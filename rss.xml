@@ -7,97 +7,111 @@
     <atom:link href="https://jd261.github.io/marit-reddit-newsfeed/rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 17:58:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 19:14:58 +0000</lastBuildDate>
+    <item>
+      <title>Pennsylvania suing Character AI, claiming chatbot posed as a medical professional</title>
+      <link>https://www.cbsnews.com/news/pennsylvania-character-ai-lawsuit-chatbot-posed-as-medical-professional/</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1t4nstd/pennsylvania_and_its_medical_board_sue/</description>
+      <guid isPermaLink="false">93edb3f714efe7594d3518d06159eb2a45b9ee7d5d72f69f85c1ca236fe162c5</guid>
+      <pubDate>Tue, 05 May 2026 19:14:04 +0000</pubDate>
+    </item>
     <item>
       <title>A cruise ship is waiting for help after 3 people died in a suspected hantavirus outbreak</title>
       <link>https://apnews.com/article/hantavirus-cruise-ship-hondius-cape-verde-74c38cab57da78f7d4c0eefac4311edf</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1t495bo/hantavirus_outbreak_on_cruise_ship_that_embarked/</description>
       <guid isPermaLink="false">9ae1166ffe7736c938742d4598a02a4e22db1ce39542260cdf5ff06a1430a3af</guid>
-      <pubDate>Tue, 05 May 2026 17:57:14 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 19:14:04 +0000</pubDate>
     </item>
     <item>
       <title>Supreme Court restores access to abortion pill mifepristone through telehealth, mail and pharmacies</title>
       <link>https://apnews.com/article/abortion-pills-mifepristone-supreme-court-louisiana-0533e83d67148fdfec53b1d0d30c1e8a</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1t3l1b5/scotus_temporarily_stays_louisiana_5th_circuit/</description>
       <guid isPermaLink="false">e75d6d466bb8cbaeb97eae5adfa88e3bca93f686eae35d6ff091a5c4d4aec9c8</guid>
-      <pubDate>Tue, 05 May 2026 17:57:14 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 19:14:04 +0000</pubDate>
     </item>
     <item>
       <title>Pharmacy Compounding Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments-Bulk Drug Substances Nominated for Inclusion on the Section 503A Bulk Drug Substances List</title>
       <link>https://www.federalregister.gov/documents/2026/04/16/2026-07361/pharmacy-compounding-advisory-committee-notice-of-meeting-establishment-of-a-public-docket-request</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1t15cep/fda_proposing_to_allow_individual_compounding_of/</description>
       <guid isPermaLink="false">d1e46bffb49284d212f6af8f891108ede3fa2c0ae9bfa90d3c122110f3caf9f9</guid>
-      <pubDate>Tue, 05 May 2026 17:57:14 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 19:14:04 +0000</pubDate>
     </item>
     <item>
       <title>Critical Care APP Fellowship | VMFH</title>
       <link>https://www.vmfh.org/residencies-fellowships-and-training/fellowship-opportunities-non-acgme/critical-care-app-fellowship</link>
       <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1s91tv3/app_fellowship/</description>
       <guid isPermaLink="false">188926431db5d15ce4e3a2821386d593a8b9bfab209ce78dcc7ebfd73f29e479</guid>
-      <pubDate>Tue, 05 May 2026 17:57:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>QuickRef — Clinical Quick Reference</title>
-      <link>https://www.quickref.cloud/</link>
-      <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1rjpneo/built_a_clinical_quickreference_app_that_pulls/</description>
-      <guid isPermaLink="false">aafed25367fcd0c5a36db15138fe3c273d22186ec5d83a36a78b503d8e68b957</guid>
-      <pubDate>Tue, 05 May 2026 17:57:46 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 19:14:36 +0000</pubDate>
     </item>
     <item>
       <title>DosePilot – Medical Calculators &amp; Clinical Algorithms_Updated - DosePilot.com</title>
       <link>https://dosepilot.com/</link>
       <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1rjpneo/built_a_clinical_quickreference_app_that_pulls/</description>
       <guid isPermaLink="false">22cad2820badf77060079ee44165723aaa13892eec7c1dc8389049a9913033a8</guid>
-      <pubDate>Tue, 05 May 2026 17:57:46 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 19:14:37 +0000</pubDate>
     </item>
     <item>
-      <title>LAMICTAL Dosage &amp; Rx Info | Uses, Side Effects</title>
-      <link>https://www.empr.com/drug/lamictal/#mood-disorders</link>
-      <description>Shared on r/Psychiatry | Reddit posts: r/Psychiatry: https://www.reddit.com/r/Psychiatry/comments/1t3ty34/40m_awarded_to_patient_for_nps_lamotrigine_dosing/</description>
-      <guid isPermaLink="false">e1c696f6f05d341823834f115218cabf81ea56a74ecd8f0804b08a2605242dda</guid>
-      <pubDate>Tue, 05 May 2026 17:57:52 +0000</pubDate>
+      <title>QuickRef — Clinical Quick Reference</title>
+      <link>https://www.quickref.cloud/</link>
+      <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1rjpneo/built_a_clinical_quickreference_app_that_pulls/</description>
+      <guid isPermaLink="false">aafed25367fcd0c5a36db15138fe3c273d22186ec5d83a36a78b503d8e68b957</guid>
+      <pubDate>Tue, 05 May 2026 19:14:37 +0000</pubDate>
     </item>
     <item>
       <title>Dosing Error Goes Unrecognized Leading to Serious Patient Harm</title>
       <link>https://www.empr.com/features/dosing-error-goes-unrecognized-leading-to-serious-patient-harm/?hmemail=rvm4L7QLK74tIG%2BOxiMnyzIZDo7e%2Fi8h&amp;sha256email=73e9cc168171cca900d6052281bd5b2e0b3dbc0cb8c2309d2e2b129582323936&amp;hmsubid=&amp;nid=1265920730&amp;elqtrack=True</link>
       <description>Shared on r/Psychiatry | Reddit posts: r/Psychiatry: https://www.reddit.com/r/Psychiatry/comments/1t3ty34/40m_awarded_to_patient_for_nps_lamotrigine_dosing/</description>
       <guid isPermaLink="false">4bf069222999110f70df1b936a6725bbe1d85ab2f224bd01eadcc58222374136</guid>
-      <pubDate>Tue, 05 May 2026 17:57:52 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 19:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>LAMICTAL Dosage &amp; Rx Info | Uses, Side Effects</title>
+      <link>https://www.empr.com/drug/lamictal/#mood-disorders</link>
+      <description>Shared on r/Psychiatry | Reddit posts: r/Psychiatry: https://www.reddit.com/r/Psychiatry/comments/1t3ty34/40m_awarded_to_patient_for_nps_lamotrigine_dosing/</description>
+      <guid isPermaLink="false">e1c696f6f05d341823834f115218cabf81ea56a74ecd8f0804b08a2605242dda</guid>
+      <pubDate>Tue, 05 May 2026 19:14:40 +0000</pubDate>
     </item>
     <item>
       <title>The Carlat Psychiatry Toolkit</title>
       <link>https://www.thecarlatreport.com/products/category/157-multimedia/product/693-carlat-psychiatry-toolkit-access</link>
       <description>Shared on r/Psychiatry | Reddit posts: r/Psychiatry: https://www.reddit.com/r/Psychiatry/comments/1t2lmfv/has_anyone_tried_carlats_ai_yet/</description>
       <guid isPermaLink="false">7b6dbb67d44249333c9bd1e2c292604b9f1e017675aef3e4df2d0918155a8c10</guid>
-      <pubDate>Tue, 05 May 2026 17:57:54 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 19:14:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>MRI OEM Safety Signs Are Telling You How To Practice (Wrongly), And They Shouldn</title>
+      <link>https://www.linkedin.com/pulse/mri-oem-safety-signs-telling-you-how-practice-wrongly-tobias-gilk-0ixsc/</link>
+      <description>Shared on r/Radiology | Reddit posts: r/Radiology: https://www.reddit.com/r/Radiology/comments/1t4or70/mri_oem_safety_signs_are_telling_you_how_to/</description>
+      <guid isPermaLink="false">dc197776f3706a7b1c993c175b087925c3e37eb0cce6afcc2e5d41b8ee7493b5</guid>
+      <pubDate>Tue, 05 May 2026 19:14:49 +0000</pubDate>
     </item>
     <item>
       <title>A decade after the ‘Godfather of AI’ said radiologists were obsolete, their salaries are up to $571K and demand is growing fast | Fortune</title>
       <link>https://fortune.com/2026/05/04/godfather-of-ai-geoffrey-hinton-radiologists-future-of-work-tech-ai-job-anxiety/</link>
       <description>Shared on r/Radiology | Reddit posts: r/Radiology: https://www.reddit.com/r/Radiology/comments/1t3jujc/a_decade_after_the_godfather_of_ai_said/</description>
       <guid isPermaLink="false">60ed85d9b70d79514d799f16f1a8f867e9d08be307880ad2b09dedcc01284bd5</guid>
-      <pubDate>Tue, 05 May 2026 17:58:00 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 19:14:50 +0000</pubDate>
     </item>
     <item>
       <title>Trauma Shrinks the Brain But Science Shows Exercise Can Rebuild It from the Inside Out</title>
       <link>https://www.rathbiotaclan.com/trauma-brain-recovery-exercise-bdnf/</link>
       <description>Shared on r/neurology | Reddit posts: r/neurology: https://www.reddit.com/r/neurology/comments/1t4973d/trauma_shrinks_the_brain_but_research_shows/</description>
       <guid isPermaLink="false">dbaa69d6f8cbd42025025e24dfeb8221928cd5affdf9cd6eb44ca5bb5f67f31a</guid>
-      <pubDate>Tue, 05 May 2026 17:58:02 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 19:14:53 +0000</pubDate>
     </item>
     <item>
       <title>Dogs’ brains began to shrink at least 5,000 years ago, study finds</title>
       <link>https://www.theguardian.com/science/2026/apr/29/dogs-brains-shrink-5000-years-ago</link>
       <description>Shared on r/neurology | Reddit posts: r/neurology: https://www.reddit.com/r/neurology/comments/1syqcly/dogs_brains_began_to_shrink_at_least_5000_years/</description>
       <guid isPermaLink="false">826616e7e2cecf7371f34590ee66b337dd85d6ba254e8e57f2d7c9c3f72571bb</guid>
-      <pubDate>Tue, 05 May 2026 17:58:03 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 19:14:53 +0000</pubDate>
     </item>
     <item>
       <title>THE CIRCLE OF LEAST CONFUSION - for optometry culture</title>
       <link>https://www.leastconfusion.org/</link>
       <description>Shared on r/ophthalmology | Reddit posts: r/ophthalmology: https://www.reddit.com/r/Ophthalmology/comments/1sz83s8/optom_birthday_cards/</description>
       <guid isPermaLink="false">645264308045a4ef78814fb6518768e5a8e32a33b3949a77913b33fa732c82b8</guid>
-      <pubDate>Tue, 05 May 2026 17:58:07 +0000</pubDate>
+      <pubDate>Tue, 05 May 2026 19:14:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
