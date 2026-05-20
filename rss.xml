@@ -7,209 +7,216 @@
     <atom:link href="https://jd261.github.io/marit-reddit-newsfeed/rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 19:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 21:17:51 +0000</lastBuildDate>
     <item>
       <title>National spotlight shines on award-winning Florida physician</title>
       <link>https://www.usf.edu/health/public-health/news/2025/steph.aspx</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1tin0g3/trump_and_rfk_jr_taps_stephanie_haridopolos_md_as/</description>
       <guid isPermaLink="false">74fbb4b582926015e7a37f8c96244febeb5b6d5aa69fae52ff617104747134ed</guid>
-      <pubDate>Wed, 20 May 2026 19:14:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump taps Florida physician Dr. Stephanie Haridopolos as chief of staff for surgeon general</title>
-      <link>https://flvoicenews.com/trump-taps-florida-physician-dr-stephanie-haridopolos-as-chief-of-staff-for-surgeon-general/</link>
-      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1tin0g3/trump_and_rfk_jr_taps_stephanie_haridopolos_md_as/</description>
-      <guid isPermaLink="false">9a0eb49ec7e0170bd418c9ecf1ee3989e4708500fdfc382c544fe04dc9acdcf6</guid>
-      <pubDate>Wed, 20 May 2026 19:14:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gout Specialist Network</title>
-      <link>https://gouteducation.org/gsn/</link>
-      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1thqoaw/ama_may_20_im_larry_edwards_md_macr_macp/</description>
-      <guid isPermaLink="false">f09a9d56a7634cfcdd069e01688676e4fac75efc1588e949b2d4f05d9d08d51c</guid>
-      <pubDate>Wed, 20 May 2026 19:14:31 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:16:46 +0000</pubDate>
     </item>
     <item>
       <title>Gout Awareness Day - Gout Education</title>
       <link>https://gouteducation.org/about-us/gout-awareness-day/</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1thqoaw/ama_may_20_im_larry_edwards_md_macr_macp/</description>
       <guid isPermaLink="false">c601ee4a96426b4aed035bbf5a5e2c05d98a66ebef0fa6402b461e8a1ae83672</guid>
-      <pubDate>Wed, 20 May 2026 19:14:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gout Education Society - A Resource for Gout Information</title>
-      <link>https://gouteducation.org/</link>
-      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1thqoaw/ama_may_20_im_larry_edwards_md_macr_macp/</description>
-      <guid isPermaLink="false">4e0339a2ff74671024b1cc33287d353c46ddf834e465d61e50d0fbbd7d1726b0</guid>
-      <pubDate>Wed, 20 May 2026 19:14:31 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:05 +0000</pubDate>
     </item>
     <item>
       <title>Gout Clinical Practice Guidelines | American College of Rheumatology</title>
       <link>https://rheumatology.org/gout-guideline</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1thqoaw/ama_may_20_im_larry_edwards_md_macr_macp/</description>
       <guid isPermaLink="false">98c03f059873996cccc8f156a27e4a4f823a34873f1ca592e78f98b1b84af3f1</guid>
-      <pubDate>Wed, 20 May 2026 19:14:31 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gout Specialist Network</title>
+      <link>https://gouteducation.org/gsn/</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1thqoaw/ama_may_20_im_larry_edwards_md_macr_macp/</description>
+      <guid isPermaLink="false">f09a9d56a7634cfcdd069e01688676e4fac75efc1588e949b2d4f05d9d08d51c</guid>
+      <pubDate>Wed, 20 May 2026 21:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gout Education Society - A Resource for Gout Information</title>
+      <link>https://gouteducation.org/</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1thqoaw/ama_may_20_im_larry_edwards_md_macr_macp/</description>
+      <guid isPermaLink="false">4e0339a2ff74671024b1cc33287d353c46ddf834e465d61e50d0fbbd7d1726b0</guid>
+      <pubDate>Wed, 20 May 2026 21:17:05 +0000</pubDate>
     </item>
     <item>
       <title>Supreme Court rejects appeals from drug manufacturers over Medicare price negotiations with government</title>
       <link>https://www.pbs.org/newshour/nation/supreme-court-rejects-appeals-from-drug-manufacturers-over-medicare-price-negotiations-with-government</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1thk8sp/scotus_rejects_pharma_industry_appeal_regarding/</description>
       <guid isPermaLink="false">6002a5fe96c042cb84547904661879e9e4c35589004576ec2481f3930cd238d4</guid>
-      <pubDate>Wed, 20 May 2026 19:14:34 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:08 +0000</pubDate>
     </item>
     <item>
       <title>Ebola Disease: Current Situation</title>
       <link>https://www.cdc.gov/ebola/situation-summary/index.html</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1th3h3n/ebolavirus_outbreak_in_the_congouganda_sickened/</description>
       <guid isPermaLink="false">f09ebe48afc8fe484b80f937dde0a77498b4abfabdad0e8fa692f7032856eb92</guid>
-      <pubDate>Wed, 20 May 2026 19:14:34 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:09 +0000</pubDate>
     </item>
     <item>
       <title>Ebola outbreak live updates: WHO warns cases and deaths will rise after American doctor tests positive — but global risk remains low</title>
       <link>https://www.yahoo.com/news/world/live/ebola-outbreak-who-warns-deaths-will-rise-after-american-tests-positive--but-global-risk-remains-low-112950969.html</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1th3h3n/ebolavirus_outbreak_in_the_congouganda_sickened/</description>
       <guid isPermaLink="false">21edd5098d2334fd5ec0744669b18365a77fcf0f0ecf4aa951214595a08367ce</guid>
-      <pubDate>Wed, 20 May 2026 19:14:34 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:09 +0000</pubDate>
     </item>
     <item>
       <title>Woman gives birth inside NYC courtroom ‘while handcuffed after 24 hours in custody’</title>
       <link>https://www.the-independent.com/news/world/americas/woman-gives-birth-new-york-courtroom-b2978059.html</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1tg8g4d/judge_cops_force_woman_to_give_birth_handcuffed/</description>
       <guid isPermaLink="false">d1da41fc445771915ebd79f99e3fcf0b51ba7a1e8c3898f19e2b4bafd1f6848b</guid>
-      <pubDate>Wed, 20 May 2026 19:14:35 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:09 +0000</pubDate>
     </item>
     <item>
       <title>Pardon Our Interruption</title>
       <link>https://hms.harvard.edu/news/study-suggests-ai-good-enough-diagnosing-complex-medical-cases-warrant-clinical-testing</link>
       <description>Shared on r/emergencymedicine | Reddit posts: r/emergencymedicine: https://www.reddit.com/r/emergencymedicine/comments/1tgt2tg/the_ai_model_matched_or_exceeded_attending/</description>
       <guid isPermaLink="false">9e986ab68356e597bf94d1c7a04446b3672bde2a96a4e182464f932eeeb9e2fa</guid>
-      <pubDate>Wed, 20 May 2026 19:14:41 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:15 +0000</pubDate>
     </item>
     <item>
-      <title>Paid Research for Healthcare Pros | InCrowd Panel</title>
-      <link>https://incrowdanswers.com/register</link>
+      <title>Enos Health | Paid Healthcare Surveys</title>
+      <link>https://www.enoshealth.com/</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tiv7un/some_side_cash_healthcare_survey_sitesapps_in/</description>
-      <guid isPermaLink="false">cfbcfec10b8b99e7fbacd3a10b1f708957b712bfd261ae3a3355c383903d2922</guid>
-      <pubDate>Wed, 20 May 2026 19:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sermo: Trusted communities for physicians, APPs, and other HCPs</title>
-      <link>https://app.sermo.com/register/start?_gl=1%2A1iok8w1%2A_ga%2AMTMxNjQwMDg1NS4xNjc5MzYzNDky%2A_ga_WTQFCSNBC0%2AMTY3OTM2MzQ5Mi4xLjEuMTY3OTM2MzU1OC42MC4wLjA.&amp;afsrc=1&amp;irgwc=1&amp;gad_source=1&amp;gad_campaignid=22839564924</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tiv7un/some_side_cash_healthcare_survey_sitesapps_in/</description>
-      <guid isPermaLink="false">290996b4d2bdf1d6807c0b10fc1adc4a391dce921c52ac8ff2afd0f7fc0fc614</guid>
-      <pubDate>Wed, 20 May 2026 19:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>SightX Survey</title>
-      <link>https://survey.sightx.io/2fc7505670ddd211d6a6556cb329927afa0d8ae7032c3407487b3856756f2476?ehid=YsQFdCstG</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tiv7un/some_side_cash_healthcare_survey_sitesapps_in/</description>
-      <guid isPermaLink="false">350b5d7ad2554a381fb31e7d673b1cd612b36c4b8ea440d52fc09102119bb75c</guid>
-      <pubDate>Wed, 20 May 2026 19:14:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ZoomRx: Market Research Reimagined</title>
-      <link>https://app.zoomrx.com/users/cyp/ariannac835173</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tiv7un/some_side_cash_healthcare_survey_sitesapps_in/</description>
-      <guid isPermaLink="false">0797f03b3d02e27d77ea59de9de2cd137df7db5a310eb3280574f52a365c2099</guid>
-      <pubDate>Wed, 20 May 2026 19:14:43 +0000</pubDate>
+      <guid isPermaLink="false">02aa248be1dece519bcfa2866e663122cc8976b6c2d2147cefc6f13f9994ecee</guid>
+      <pubDate>Wed, 20 May 2026 21:17:18 +0000</pubDate>
     </item>
     <item>
       <title>Sermo: Trusted communities for physicians, APPs, and other HCPs</title>
       <link>https://app.sermo.com/register/start?refid=49522924-520e-46e6-9762-7835ab61b774</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tiv7un/some_side_cash_healthcare_survey_sitesapps_in/</description>
       <guid isPermaLink="false">ac1e3f3123708f4ae1632fb78a1548aabec309a4a6f72b9f4f15fa4505dd603c</guid>
-      <pubDate>Wed, 20 May 2026 19:14:43 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>ZoomRx: Market Research Reimagined</title>
+      <link>https://app.zoomrx.com/users/cyp/ariannac835173</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tiv7un/some_side_cash_healthcare_survey_sitesapps_in/</description>
+      <guid isPermaLink="false">0797f03b3d02e27d77ea59de9de2cd137df7db5a310eb3280574f52a365c2099</guid>
+      <pubDate>Wed, 20 May 2026 21:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sermo: Trusted communities for physicians, APPs, and other HCPs</title>
+      <link>https://app.sermo.com/register/start?_gl=1%2A1iok8w1%2A_ga%2AMTMxNjQwMDg1NS4xNjc5MzYzNDky%2A_ga_WTQFCSNBC0%2AMTY3OTM2MzQ5Mi4xLjEuMTY3OTM2MzU1OC42MC4wLjA.&amp;afsrc=1&amp;irgwc=1&amp;gad_source=1&amp;gad_campaignid=22839564924</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tiv7un/some_side_cash_healthcare_survey_sitesapps_in/</description>
+      <guid isPermaLink="false">290996b4d2bdf1d6807c0b10fc1adc4a391dce921c52ac8ff2afd0f7fc0fc614</guid>
+      <pubDate>Wed, 20 May 2026 21:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>SightX Survey</title>
+      <link>https://survey.sightx.io/2fc7505670ddd211d6a6556cb329927afa0d8ae7032c3407487b3856756f2476?ehid=YsQFdCstG</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tiv7un/some_side_cash_healthcare_survey_sitesapps_in/</description>
+      <guid isPermaLink="false">350b5d7ad2554a381fb31e7d673b1cd612b36c4b8ea440d52fc09102119bb75c</guid>
+      <pubDate>Wed, 20 May 2026 21:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Member Login - All Global Circle</title>
+      <link>https://www.allglobalcircle.com/login</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tiv7un/some_side_cash_healthcare_survey_sitesapps_in/</description>
+      <guid isPermaLink="false">df66e1e5058e41dae16d2325a30a59f9c198bca155185e25e7ff4616915976e8</guid>
+      <pubDate>Wed, 20 May 2026 21:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paid Research for Healthcare Pros | InCrowd Panel</title>
+      <link>https://incrowdanswers.com/register</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tiv7un/some_side_cash_healthcare_survey_sitesapps_in/</description>
+      <guid isPermaLink="false">cfbcfec10b8b99e7fbacd3a10b1f708957b712bfd261ae3a3355c383903d2922</guid>
+      <pubDate>Wed, 20 May 2026 21:17:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paid Surveys | HCP Panel Recruitment | Join ZoomRx Panel - ZoomRx</title>
+      <link>https://zoomrx.com/paid-surveys?campaignid=23855597754&amp;adgroupid=&amp;adid=&amp;hsa_acc=3839494808&amp;hsa_cam=23855597754&amp;hsa_grp=&amp;hsa_ad=&amp;hsa_src=x&amp;hsa_tgt=&amp;hsa_kw=&amp;hsa_mt=&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gad_campaignid=23865389509</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tiv7un/some_side_cash_healthcare_survey_sitesapps_in/</description>
+      <guid isPermaLink="false">6155a5c34f90eeeeba1f80f4ae5971bcbb70941cf5fbff7804d730ce027d961c</guid>
+      <pubDate>Wed, 20 May 2026 21:17:18 +0000</pubDate>
     </item>
     <item>
       <title>ECMO Terminology:</title>
       <link>https://www.lifesupport.training/p/ecmo-terminology</link>
       <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1tb9fdj/ecmo_terminology/</description>
       <guid isPermaLink="false">5fbf8157e9aaf3f20468e7eb6ce4d378c07b353331c8430e54f13d67a543e0ae</guid>
-      <pubDate>Wed, 20 May 2026 19:14:56 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:30 +0000</pubDate>
     </item>
     <item>
       <title>Critical Care APP Fellowship | VMFH</title>
       <link>https://www.vmfh.org/residencies-fellowships-and-training/fellowship-opportunities-non-acgme/critical-care-app-fellowship</link>
       <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1s91tv3/app_fellowship/</description>
       <guid isPermaLink="false">188926431db5d15ce4e3a2821386d593a8b9bfab209ce78dcc7ebfd73f29e479</guid>
-      <pubDate>Wed, 20 May 2026 19:14:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>QuickRef — Clinical Quick Reference</title>
-      <link>https://www.quickref.cloud/</link>
-      <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1rjpneo/built_a_clinical_quickreference_app_that_pulls/</description>
-      <guid isPermaLink="false">aafed25367fcd0c5a36db15138fe3c273d22186ec5d83a36a78b503d8e68b957</guid>
-      <pubDate>Wed, 20 May 2026 19:14:56 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:30 +0000</pubDate>
     </item>
     <item>
       <title>DosePilot – Medical Calculators &amp; Clinical Algorithms_Updated - DosePilot.com</title>
       <link>https://dosepilot.com/</link>
       <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1rjpneo/built_a_clinical_quickreference_app_that_pulls/</description>
       <guid isPermaLink="false">22cad2820badf77060079ee44165723aaa13892eec7c1dc8389049a9913033a8</guid>
-      <pubDate>Wed, 20 May 2026 19:14:56 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>QuickRef — Clinical Quick Reference</title>
+      <link>https://www.quickref.cloud/</link>
+      <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1rjpneo/built_a_clinical_quickreference_app_that_pulls/</description>
+      <guid isPermaLink="false">aafed25367fcd0c5a36db15138fe3c273d22186ec5d83a36a78b503d8e68b957</guid>
+      <pubDate>Wed, 20 May 2026 21:17:30 +0000</pubDate>
     </item>
     <item>
       <title>New study finding $14.2 million in undisclosed conflicts of interest in the “bible” of psychiatry (DSM-5-TR) published in the British Medical Journal</title>
       <link>https://medicalresearch.com/new-study-finding-14-2-million-in-undisclosed-conflicts-of-interest-in-the-bible-of-psychiatry-dsm-5-tr-published-in-the-british-medical-journal/</link>
       <description>Shared on r/Psychiatry | Reddit posts: r/Psychiatry: https://www.reddit.com/r/Psychiatry/comments/1tig8u3/undisclosed_financial_conflicts_of_interest_in/</description>
       <guid isPermaLink="false">53ff05f29972dc2232ee3d00a5140c901d304fd7b509fba05dadcb20704d4796</guid>
-      <pubDate>Wed, 20 May 2026 19:15:00 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:34 +0000</pubDate>
     </item>
     <item>
       <title>ASRA cease and desist against CoagRef</title>
       <link>https://consumerrights.wiki/w/ASRA_cease_and_desist_against_CoagRef</link>
       <description>Shared on r/Anesthesiology | Reddit posts: r/Anesthesiology: https://www.reddit.com/r/anesthesiology/comments/1thob3f/help_louis_rossman_make_light_of_the_asra_coags/</description>
       <guid isPermaLink="false">b4887229d32697830e186797defc04e7a71151953ac5d3e9683ca4b76b624719</guid>
-      <pubDate>Wed, 20 May 2026 19:15:04 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:38 +0000</pubDate>
     </item>
     <item>
       <title>Soldier on parachuting to Tristan da Cunha for Hantavirus aid</title>
       <link>https://www.bbc.com/news/videos/cgqp3xq7959o</link>
       <description>Shared on r/Anesthesiology | Reddit posts: r/Anesthesiology: https://www.reddit.com/r/anesthesiology/comments/1td4zxb/british_anesthesiologist_parachuting_to_remote/</description>
       <guid isPermaLink="false">92c41d46fd9f544dcf0e1e1c0e5f4968f01b508d3c3e324d4f2ef107c1909f3e</guid>
-      <pubDate>Wed, 20 May 2026 19:15:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recursive Cortical Ignition: A Pattern-Coding Route Past the Miniaturization Ceiling in Cortical Visual Prostheses</title>
-      <link>https://zenodo.org/records/20296150</link>
-      <description>Shared on r/neurology | Reddit posts: r/neurology: https://www.reddit.com/r/neurology/comments/1tidpgj/recursive_cortical_ignition_a_hypothesis_for/</description>
-      <guid isPermaLink="false">47ab6619dffa8f421f5b1105612b2905936b6498ef52a05208b6ed79ac52ac4b</guid>
-      <pubDate>Wed, 20 May 2026 19:15:10 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:38 +0000</pubDate>
     </item>
     <item>
       <title>Researchers identify new ways to boost nervous system repair in MS | University of Helsinki</title>
       <link>https://www.helsinki.fi/en/news/drug-development/researchers-identify-new-ways-boost-nervous-system-repair-ms</link>
       <description>Shared on r/neurology | Reddit posts: r/neurology: https://www.reddit.com/r/neurology/comments/1tgimjj/researchers_identify_two_new_ways_to_initiate/</description>
       <guid isPermaLink="false">44ca13942ba2dbf330614f28b67db9696e07abf343134927c5d865383532aa2b</guid>
-      <pubDate>Wed, 20 May 2026 19:15:11 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:44 +0000</pubDate>
     </item>
     <item>
       <title>Breakthrough in eye disease treatment: Chinese scientists develop non-invasive nanodrop therapy to replace injections for corneal neovascularization</title>
       <link>https://www.eurekalert.org/news-releases/1119361?hl=nl-NL</link>
       <description>Shared on r/ophthalmology | Reddit posts: r/ophthalmology: https://www.reddit.com/r/Ophthalmology/comments/1tih4yi/scientists_develop_noninvasive_nanodrop_therapy/</description>
       <guid isPermaLink="false">db1f797363dd0f298e582941179fe1623874ef5c7f26ad4c3e5c06dfea0b43fa</guid>
-      <pubDate>Wed, 20 May 2026 19:15:15 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:48 +0000</pubDate>
     </item>
     <item>
       <title>Ophthordle — Weekly eye case</title>
       <link>https://www.firsteyeapplications.com/ophthordle</link>
       <description>Shared on r/ophthalmology | Reddit posts: r/ophthalmology: https://www.reddit.com/r/Ophthalmology/comments/1tg7wm4/ophthordle_giveaway/</description>
       <guid isPermaLink="false">d65ec48249871b0e7417e1617fdcb67051805303b8a2939be023f03d75dd3334</guid>
-      <pubDate>Wed, 20 May 2026 19:15:16 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:49 +0000</pubDate>
     </item>
     <item>
       <title>Eye drops made from pig semen deliver cancer treatment to mice</title>
       <link>https://www.nature.com/articles/d41586-026-00982-2</link>
       <description>Shared on r/ophthalmology | Reddit posts: r/ophthalmology: https://www.reddit.com/r/Ophthalmology/comments/1tfb95n/eye_drops_made_from_pig_semen_deliver_cancer/</description>
       <guid isPermaLink="false">ad188e79624632c5bcabe9573e94129ddb4a2236e67664f772b48829a8178c68</guid>
-      <pubDate>Wed, 20 May 2026 19:15:17 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:49 +0000</pubDate>
     </item>
     <item>
       <title>OcuLearning App - App Store</title>
       <link>https://apps.apple.com/us/app/oculearning/id6766313098</link>
       <description>Shared on r/neurology, r/ophthalmology | Reddit posts: r/neurology: https://www.reddit.com/r/neurology/comments/1tdy8pm/med_students_in_canada_built_an_app_to_study/ | r/ophthalmology: https://www.reddit.com/r/Ophthalmology/comments/1tdwjvf/med_students_in_canada_built_an_app_to_study/</description>
       <guid isPermaLink="false">f7eb77fb4f13a8bbb7ad84dc813a56c6ad1cd44370d356ea6895cddc641af880</guid>
-      <pubDate>Wed, 20 May 2026 19:15:18 +0000</pubDate>
+      <pubDate>Wed, 20 May 2026 21:17:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
