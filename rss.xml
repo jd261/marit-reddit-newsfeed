@@ -7,258 +7,251 @@
     <atom:link href="https://jd261.github.io/marit-reddit-newsfeed/rss.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 09:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 11:28:50 +0000</lastBuildDate>
     <item>
       <title>Proposed new US funding rules: We can cancel any grant at any time</title>
       <link>https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1ts8qrc/major_proposed_changes_to_research_grant_funding/</description>
       <guid isPermaLink="false">bc0b32ba22e25318bc24dde785bbb83e9cafc4f1031dfa93c4a907b2bc620446</guid>
-      <pubDate>Sun, 31 May 2026 09:42:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blood pressure tech floods the market after FDA relaxes wearables oversight</title>
-      <link>https://www.statnews.com/2026/05/28/fda-wellness-guidance-unvetted-blood-pressure-tech-floods-market/</link>
-      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1trlcy4/fda_is_okay_allowing_bpmeasuring_rings_for/</description>
-      <guid isPermaLink="false">647db149d03a5fbb65080eb74788d85bbc8498b7276111992bc29d3e874c5284</guid>
-      <pubDate>Sun, 31 May 2026 09:42:50 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:07 +0000</pubDate>
     </item>
     <item>
       <title>General Wellness: Policy for Low Risk Devices - Guidance</title>
       <link>https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1trlcy4/fda_is_okay_allowing_bpmeasuring_rings_for/</description>
       <guid isPermaLink="false">e21a9489945b5d2fb8aabd7e29126286f3f165757e68dbfce2f32a136960d9a5</guid>
-      <pubDate>Sun, 31 May 2026 09:42:50 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blood pressure tech floods the market after FDA relaxes wearables oversight</title>
+      <link>https://www.statnews.com/2026/05/28/fda-wellness-guidance-unvetted-blood-pressure-tech-floods-market/</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1trlcy4/fda_is_okay_allowing_bpmeasuring_rings_for/</description>
+      <guid isPermaLink="false">647db149d03a5fbb65080eb74788d85bbc8498b7276111992bc29d3e874c5284</guid>
+      <pubDate>Sun, 31 May 2026 11:28:07 +0000</pubDate>
     </item>
     <item>
       <title>Histopathologic evidence of VEGF in early neovascular AMD: from a 1992 hypothesis to a 1994 discovery — a historical perspective</title>
       <link>https://link.springer.com/epdf/10.1186/s40942-025-00779-x?sharing_token=hG__IgMyU0_lpkzMA4DWK2_BpE1tBhCbnbw3BuzI2RP-r42NuzNnrQOInTRyJXRGPXshcssAePqEzVzGJFPQD_9qnev1f5oSXEGxiWCoLhTxVC6NYSIkNp4lohNw6xGFPOyHltBBVcOgxNTH5oldIE5GXz_k6GbCUfFLIFPtS0AWJqVUVGbzF6x9KTMvWz2y</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1trkq4k/histopathologic_evidence_of_vegf_in_early/</description>
       <guid isPermaLink="false">895a7596b626dce1215449de07c1d259a3f83b543da2b5694bbb717e916e7204</guid>
-      <pubDate>Sun, 31 May 2026 09:42:51 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:08 +0000</pubDate>
     </item>
     <item>
       <title>More Indirect Patient Care Activities per Visit: 11-Year Analysis of Family Physician Electronic Health Records in Canada</title>
       <link>https://www.annfammed.org/content/24/3/185</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1tr1v18/family_physician_administrative_workload_per/</description>
       <guid isPermaLink="false">ca36bae3a59aa157b253c50055086b7420c5b0176bea50d43c19adf6e5c0d0ba</guid>
-      <pubDate>Sun, 31 May 2026 09:42:52 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:09 +0000</pubDate>
     </item>
     <item>
       <title>What Utah’s clinical AI sandbox reveals about independent oversight - Nature Medicine</title>
       <link>https://www.nature.com/articles/s41591-026-04418-2</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1tpiyu6/some_physicians_wanted_safety_data_from_an_ai/</description>
       <guid isPermaLink="false">333be111f78c36bf0ad68f71050ab2ae6500a96e0758c20af882fc9d0e1c2669</guid>
-      <pubDate>Sun, 31 May 2026 09:42:54 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:11 +0000</pubDate>
     </item>
     <item>
       <title>AI-PACE: a framework for integrating AI into medical education - npj Digital Medicine</title>
       <link>https://www.nature.com/articles/s41746-026-02768-2</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1tp6y3r/generalist_physicians_are_an_afterthought_in/</description>
       <guid isPermaLink="false">47e46e2f37db6ec4fd023696a328bce617bc188f7ca5165d4bc21b8f5c52d894</guid>
-      <pubDate>Sun, 31 May 2026 09:42:55 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:12 +0000</pubDate>
     </item>
     <item>
       <title>Obstetrical team performs rare C-section on gorilla Olympia to deliver baby. New gorilla mom Jamani steps in to help care for Olympia's baby</title>
       <link>https://blog.zoo.org/2026/05/obstetrical-team-performs-rare-c.html?m=1</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1toyprj/obstetrical_team_performs_rare_csection_on/</description>
       <guid isPermaLink="false">16e85011e92a586e982fbeaa309650dc90d760a22534d41c7fe0221ea9e1079d</guid>
-      <pubDate>Sun, 31 May 2026 09:42:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Impact of Sustained LDL-C Elevation on Plaque Changes: Primary Coronary plaque progression results from the Keto CTA Study</title>
-      <link>https://www.medrxiv.org/content/10.64898/2026.01.15.26343955v1</link>
-      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1tomw2n/jacc_retracts_2025_paper_claiming_that_the_keto/</description>
-      <guid isPermaLink="false">20a8c3434ec3adc68e0175c812800ee67e5029e5631d34d16a06482395013469</guid>
-      <pubDate>Sun, 31 May 2026 09:42:56 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:13 +0000</pubDate>
     </item>
     <item>
       <title>Widely criticized keto diet study retracted</title>
       <link>https://retractionwatch.com/2026/05/22/widely-criticized-keto-diet-study-retracted/</link>
       <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1tomw2n/jacc_retracts_2025_paper_claiming_that_the_keto/</description>
       <guid isPermaLink="false">99f3bc4412b93c3fa7fb5b64a23bc7ec1d7cf3e4ca1807334a4cfe49e87a5871</guid>
-      <pubDate>Sun, 31 May 2026 09:42:56 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Impact of Sustained LDL-C Elevation on Plaque Changes: Primary Coronary plaque progression results from the Keto CTA Study</title>
+      <link>https://www.medrxiv.org/content/10.64898/2026.01.15.26343955v1</link>
+      <description>Shared on r/medicine | Reddit posts: r/medicine: https://www.reddit.com/r/medicine/comments/1tomw2n/jacc_retracts_2025_paper_claiming_that_the_keto/</description>
+      <guid isPermaLink="false">20a8c3434ec3adc68e0175c812800ee67e5029e5631d34d16a06482395013469</guid>
+      <pubDate>Sun, 31 May 2026 11:28:13 +0000</pubDate>
     </item>
     <item>
       <title>Obstetrical team performs rare C-section on gorilla Olympia to deliver baby. New gorilla mom Jamani steps in to help care for Olympia's baby</title>
       <link>https://blog.zoo.org/2026/05/obstetrical-team-performs-rare-c.html</link>
       <description>Shared on r/emergencymedicine | Reddit posts: r/emergencymedicine: https://www.reddit.com/r/emergencymedicine/comments/1tpprpg/a_team_of_physicians_obgyn_em_nicu_and/</description>
       <guid isPermaLink="false">6ae9088baf312c9edf72edf0d5c794de25b588cd13e9d6a5eae99850cdae9f57</guid>
-      <pubDate>Sun, 31 May 2026 09:42:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hypoglycemia: Background, Pathophysiology, Etiology</title>
-      <link>https://emedicine.medscape.com/article/122122-overview</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
-      <guid isPermaLink="false">68b6bcf85f96b326fd9eeea19acc6e7fd9278ebbdb9521fbd88b83cd5fd8dc6a</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Thyroid Cancer: Practice Essentials, Etiology, Epidemiology</title>
-      <link>https://emedicine.medscape.com/article/851968-overview</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
-      <guid isPermaLink="false">f3775ed9029abe10cf43292f9c97e12c2f404ab44df96325285fa8d78fcbdbe4</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insulin Titration Recommendations When Using Glucagon-Like Peptide 1 Receptor Agonist Therapy in Adults With Type 1 Diabetes</title>
-      <link>https://scholarlycommons.henryford.com/endocrinology_articles/165/</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
-      <guid isPermaLink="false">3d32db2babc815b03c7b9efa4c158724060a801db204ffc87f3cdf7698eecaf6</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Candidiasis: Practice Essentials, Background, Pathophysiology</title>
-      <link>https://emedicine.medscape.com/article/213853-overview</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
-      <guid isPermaLink="false">842e401086ba1f652b2826efb45043b58d11d164a1b8c5c23fef2a150513ea11</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Multiple Endocrine Neoplasia Type 2 (MEN2): Practice Essentials, Pathophysiology, Etiology</title>
-      <link>https://emedicine.medscape.com/article/123447-overview</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
-      <guid isPermaLink="false">c622c303d2c1b06bf13e63fd98e3f9b1e8f12943d57fbc250d806c4f3b3d4034</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Avoid These 10 Mistakes When Prescribing SGLT2i/GLP-1s</title>
-      <link>https://www.medscape.com/viewarticle/avoid-these-10-mistakes-when-prescribing-sglt2-inhibitor-and-2026a1000ezt?ecd=a2a</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
-      <guid isPermaLink="false">d768fd5054b9a51838f901f46d238037d8e59affbc4ab4ef04451c7cf8830cb3</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Type 1 Diabetes Mellitus: Background, Pathophysiology, Etiology</title>
-      <link>https://emedicine.medscape.com/article/117739-overview</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
-      <guid isPermaLink="false">25fae0391f30f8e61509efc729962452d70e66a2d4d28bd66185b7ba2333b459</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Insulin: Background, Serum Insulin Measurement, Interpretation</title>
-      <link>https://emedicine.medscape.com/article/2089224-overview</link>
-      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
-      <guid isPermaLink="false">c5342e449f8515ef5c1b30b40c85af789ea4dc76878cbd6fc87927d302e52966</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:16 +0000</pubDate>
     </item>
     <item>
       <title>Ozempic, Rybelsus, Wegovy (semaglutide) dosing, indications, interactions, adverse effects, and more</title>
       <link>https://reference.medscape.com/drug/ozempic-rybelsus-wegovy-semaglutide-1000174</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
       <guid isPermaLink="false">665932ba4792de62244775ca953791dbab45316aaa486fa9122236b44ed5a684</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
     </item>
     <item>
-      <title>Type 2 Diabetes Mellitus: Background, Etiology, Pathophysiology</title>
-      <link>https://emedicine.medscape.com/article/117853-overview</link>
+      <title>Candidiasis: Practice Essentials, Background, Pathophysiology</title>
+      <link>https://emedicine.medscape.com/article/213853-overview</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
-      <guid isPermaLink="false">2184dbdd982d280c10760c7106291ba7030e573aab310d9ad6f01f1edd10e7f1</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
+      <guid isPermaLink="false">842e401086ba1f652b2826efb45043b58d11d164a1b8c5c23fef2a150513ea11</guid>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
     </item>
     <item>
-      <title>Contraception: Practice Essentials, Overview, Periodic Abstinence</title>
-      <link>https://emedicine.medscape.com/article/258507-overview</link>
+      <title>Thyroid Cancer: Practice Essentials, Etiology, Epidemiology</title>
+      <link>https://emedicine.medscape.com/article/851968-overview</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
-      <guid isPermaLink="false">43d496645224862ccbec07240011357360d8b216e37cf87b8fc92cd41f596891</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
+      <guid isPermaLink="false">f3775ed9029abe10cf43292f9c97e12c2f404ab44df96325285fa8d78fcbdbe4</guid>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hypoglycemia: Background, Pathophysiology, Etiology</title>
+      <link>https://emedicine.medscape.com/article/122122-overview</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
+      <guid isPermaLink="false">68b6bcf85f96b326fd9eeea19acc6e7fd9278ebbdb9521fbd88b83cd5fd8dc6a</guid>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insulin Titration Recommendations When Using Glucagon-Like Peptide 1 Receptor Agonist Therapy in Adults With Type 1 Diabetes</title>
+      <link>https://scholarlycommons.henryford.com/endocrinology_articles/165/</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
+      <guid isPermaLink="false">3d32db2babc815b03c7b9efa4c158724060a801db204ffc87f3cdf7698eecaf6</guid>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Avoid These 10 Mistakes When Prescribing SGLT2i/GLP-1s</title>
+      <link>https://www.medscape.com/viewarticle/avoid-these-10-mistakes-when-prescribing-sglt2-inhibitor-and-2026a1000ezt?ecd=a2a</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
+      <guid isPermaLink="false">d768fd5054b9a51838f901f46d238037d8e59affbc4ab4ef04451c7cf8830cb3</guid>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Type 1 Diabetes Mellitus: Background, Pathophysiology, Etiology</title>
+      <link>https://emedicine.medscape.com/article/117739-overview</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
+      <guid isPermaLink="false">25fae0391f30f8e61509efc729962452d70e66a2d4d28bd66185b7ba2333b459</guid>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
     </item>
     <item>
       <title>Obesity: Background, Pathophysiology, Etiology</title>
       <link>https://emedicine.medscape.com/article/123702-overview</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
       <guid isPermaLink="false">1037f965dabe2a62f7a1aa4ad8b85c443dbc3706fafa04874a69e4c234507e9a</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insulin: Background, Serum Insulin Measurement, Interpretation</title>
+      <link>https://emedicine.medscape.com/article/2089224-overview</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
+      <guid isPermaLink="false">c5342e449f8515ef5c1b30b40c85af789ea4dc76878cbd6fc87927d302e52966</guid>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
     </item>
     <item>
       <title>Heart Failure: Background, Etiology, Pathophysiology</title>
       <link>https://emedicine.medscape.com/article/163062-overview</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
       <guid isPermaLink="false">4d6cbe4e1c12469911bd64b2ab84ac2c07da616e5fbe8f319f31c9b8a8867550</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
     </item>
     <item>
-      <title>10 erreurs fréquentes à éviter avec les iSGPT2 et aGLP-1</title>
-      <link>https://www.univadis.fr/viewarticle/pratique-10-erreurs-fr%C3%A9quentes-%C3%A9viter-isgpt2-et-2026a1000asf?gs=0&amp;token=r2qPR6eLzrqHDiroxDQ6alrFTDkaQ3TvMmsnfVSIDIuiPpBe3Y8D%2BOHPAb8jAminKO4%2FV%2BlN%2FYnpCr4CYRwwf2%2FJc3eLBEL5oMtA7iYUamuW%2BN66QMTTxjUpyTeu8GVtp2yyV1XmUH%2Bw%2BVLkEc6ogpSmNnQXQLCc%2F1rRxkHPXbZSofCNb6sIpzsDg%2BBDY9vfjZFNuRaA64SUkddoaxORUs3lFwxI04huP6rCXIQMgY7JeNOuLemxpxL0pLoxBvXQaD2fYkF20jGQhLlw480beKyvspPsul0D13seoZwHaYFdUw2CIsLgrQ%2BsscWxro%2FAM69InA6uNwIAi6A4otQBcAApRZwqw%2F9zBOQNiSe2YcD%2Bgw8krrYi4xtY6oBerZkux%2ByrsUduzhZcweK7i7dZ53Y6TDbm6wNYQEKRaaY3Ln6F6juD43%2FFZ1BK5SBIkFYT</link>
+      <title>Type 2 Diabetes Mellitus: Background, Etiology, Pathophysiology</title>
+      <link>https://emedicine.medscape.com/article/117853-overview</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
-      <guid isPermaLink="false">722d7b237c87a114bf7b6d16dfa6cc9e7f2b436845a72daf9ceb0340d296943c</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
+      <guid isPermaLink="false">2184dbdd982d280c10760c7106291ba7030e573aab310d9ad6f01f1edd10e7f1</guid>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multiple Endocrine Neoplasia Type 2 (MEN2): Practice Essentials, Pathophysiology, Etiology</title>
+      <link>https://emedicine.medscape.com/article/123447-overview</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
+      <guid isPermaLink="false">c622c303d2c1b06bf13e63fd98e3f9b1e8f12943d57fbc250d806c4f3b3d4034</guid>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Contraception: Practice Essentials, Overview, Periodic Abstinence</title>
+      <link>https://emedicine.medscape.com/article/258507-overview</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
+      <guid isPermaLink="false">43d496645224862ccbec07240011357360d8b216e37cf87b8fc92cd41f596891</guid>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
     </item>
     <item>
       <title>Hemoglobin A1c Testing: Reference Interval, Interpretation, Collection and Panels</title>
       <link>https://emedicine.medscape.com/article/2049478-overview</link>
       <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
       <guid isPermaLink="false">656e77fd28d808a1be27c65e297b731b517ab2220decaa67139ab0f4020dbb03</guid>
-      <pubDate>Sun, 31 May 2026 09:43:02 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>10 erreurs fréquentes à éviter avec les iSGPT2 et aGLP-1</title>
+      <link>https://www.univadis.fr/viewarticle/pratique-10-erreurs-fr%C3%A9quentes-%C3%A9viter-isgpt2-et-2026a1000asf?gs=0&amp;token=r2qPR6eLzrqHDiroxDQ6atDpkO2FRBTLO7GzCOa4wpcrq7oKI30sBzbF11VzUgV%2FTZRl0TMvJUVSN9y0O4y%2FYdrN5xRICA9AXbbDpO2dEeWid2XlLcSuVLLu%2Fukl9YC%2BwWuABsCya5FGxLTnM%2FV7dH8OJVqUjB9LUVHvI%2Ffu3qC4O6cUoxuqK0ebpSk7%2BkGGOcMK0qxfJwDUcdZIcF6TZiEUfqN8%2FVe9ZmYLDYF1iO2f%2BaALZNxHqENlO0ngP0rbDgbzepp7YcViRvMP0PoJHQq5Pin6675FXS4nbDTVnGjtI6lit4K%2B4lwLD68T929hwesplzPcqQOL2Yam2upw7RUkzxrhOfR8fRe6jPp1QSr6ad%2BGqhar3gytNAo0fzldg%2FtXQL3r5VUpttAfviYnJ5NIhRzzyQqUmXOwvs2w2Ao%3D</link>
+      <description>Shared on r/FamilyMedicine | Reddit posts: r/FamilyMedicine: https://www.reddit.com/r/FamilyMedicine/comments/1tro9zq/avoid_these_10_mistakes_when_prescribing_sglt2/</description>
+      <guid isPermaLink="false">08212e533d7648f63189eb9ed408b1968802a6d150b76ae288dbdf9d82c29ccd</guid>
+      <pubDate>Sun, 31 May 2026 11:28:19 +0000</pubDate>
     </item>
     <item>
       <title>Bridge to Recovery From What?</title>
       <link>https://www.lifesupport.training/p/bridge-to-recovery-from-what</link>
       <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1togla8/bridge_to_recovery_from_what/</description>
       <guid isPermaLink="false">f48cf2b177553ff311a2aa66afe5dc0a03ddc2788787e4f641676fa220d60558</guid>
-      <pubDate>Sun, 31 May 2026 09:43:12 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:31 +0000</pubDate>
     </item>
     <item>
       <title>When Delta P Looks Better…</title>
       <link>https://www.lifesupport.training/p/when-delta-p-looks-better</link>
       <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1tk4nup/interesting_take_on_delta_p_with_ecmo/</description>
       <guid isPermaLink="false">09086eb7cc0c054bf5711870ca0908b7f77623b395567c85b24522e1194b7445</guid>
-      <pubDate>Sun, 31 May 2026 09:43:12 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:32 +0000</pubDate>
     </item>
     <item>
       <title>ECMO Terminology:</title>
       <link>https://www.lifesupport.training/p/ecmo-terminology</link>
       <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1tb9fdj/ecmo_terminology/</description>
       <guid isPermaLink="false">5fbf8157e9aaf3f20468e7eb6ce4d378c07b353331c8430e54f13d67a543e0ae</guid>
-      <pubDate>Sun, 31 May 2026 09:43:12 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:32 +0000</pubDate>
     </item>
     <item>
       <title>Critical Care APP Fellowship | VMFH</title>
       <link>https://www.vmfh.org/residencies-fellowships-and-training/fellowship-opportunities-non-acgme/critical-care-app-fellowship</link>
       <description>Shared on r/criticalcare | Reddit posts: r/criticalcare: https://www.reddit.com/r/CriticalCare/comments/1s91tv3/app_fellowship/</description>
       <guid isPermaLink="false">188926431db5d15ce4e3a2821386d593a8b9bfab209ce78dcc7ebfd73f29e479</guid>
-      <pubDate>Sun, 31 May 2026 09:43:12 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:32 +0000</pubDate>
     </item>
     <item>
       <title>Press — Committee to Protect Public Mental Health</title>
       <link>https://www.protectpublicmentalhealth.org/nationalsurvey</link>
       <description>Shared on r/Psychiatry | Reddit posts: r/Psychiatry: https://www.reddit.com/r/Psychiatry/comments/1tqect5/survey_finds_that_97_of_psychiatrists_say_rfk_is/</description>
       <guid isPermaLink="false">398c84aa1efd24fb7eed86634e494da058289d968aadea220e41b06b954caa6d</guid>
-      <pubDate>Sun, 31 May 2026 09:43:15 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:35 +0000</pubDate>
     </item>
     <item>
       <title>New MRI-Guided Cryoablation Advances Treatment Options - ASMIRT</title>
       <link>https://asmirt.org/news/new-mri-guided-cryoablation-advances-treatment-options/</link>
       <description>Shared on r/Radiology | Reddit posts: r/Radiology: https://www.reddit.com/r/Radiology/comments/1trxyqj/australia_unveils_worlds_first_mri_machine_that/</description>
       <guid isPermaLink="false">355667b261ba67bdd83b0bedcc4302848464635777a1e1d437c887e59936f89d</guid>
-      <pubDate>Sun, 31 May 2026 09:43:21 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:40 +0000</pubDate>
     </item>
     <item>
       <title>Disney and Philips bring together beloved storytelling and innovative technology to support kids undergoing MRI exams</title>
       <link>https://www.philips.com/a-w/about/news/archive/standard/news/press/2026/disney-and-philips-bring-together-beloved-storytelling-and-innovative-technology-to-support-kids-undergoing-mri-exams.html</link>
       <description>Shared on r/Radiology | Reddit posts: r/Radiology: https://www.reddit.com/r/Radiology/comments/1trsult/philips_ambient_experience_mri_disney/</description>
       <guid isPermaLink="false">01c2e529f8579a838c18f790b67c5bcbbc3fd677d7450a235d2336b892c32ed1</guid>
-      <pubDate>Sun, 31 May 2026 09:43:22 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:42 +0000</pubDate>
     </item>
     <item>
       <title>Welcome! You are invited to join a webinar: Society for Neuro-Oncology Student and Trainee Virtual Career Panel. After registering, you will receive a confirmation email about joining the webinar.</title>
       <link>https://us06web.zoom.us/webinar/register/WN_mtKvUdPDR--5z9jaxy2WmQ#/registration</link>
       <description>Shared on r/neurology | Reddit posts: r/neurology: https://www.reddit.com/r/neurology/comments/1tpfcj6/learn_about_careers_in_the_field_of_neurooncology/</description>
       <guid isPermaLink="false">870e3ff2c3a6bf503b49b64940f42b522995a2ffdbe5ce1eedffcc0c07866371</guid>
-      <pubDate>Sun, 31 May 2026 09:43:26 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:45 +0000</pubDate>
     </item>
     <item>
       <title>TEAM Foundation</title>
       <link>https://www.theteamfoundation.org/</link>
       <description>Shared on r/ophthalmology | Reddit posts: r/ophthalmology: https://www.reddit.com/r/Ophthalmology/comments/1tpl9e0/ophthalmology_residency_opening/</description>
       <guid isPermaLink="false">6fc2388146dc94e61bb6f765fb122944d874129138c9a448550c6251c1debe5c</guid>
-      <pubDate>Sun, 31 May 2026 09:43:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Board Prep Resources - American Academy of Ophthalmology</title>
-      <link>https://www.aao.org/education/board-prep-resources</link>
-      <description>Shared on r/ophthalmology | Reddit posts: r/ophthalmology: https://www.reddit.com/r/Ophthalmology/comments/1tpjyew/bscs_qbank/</description>
-      <guid isPermaLink="false">509d7383d9c89edec0247461410bab9560850ef3c29b70738fd31cf1e31c168b</guid>
-      <pubDate>Sun, 31 May 2026 09:43:30 +0000</pubDate>
+      <pubDate>Sun, 31 May 2026 11:28:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
